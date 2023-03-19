@@ -19,3 +19,7 @@ An Android developer, and server PHP development.
 [![Flutter](https://img.shields.io/badge/-Flutter-6ecdf8?style=flat&logo=flutter&logoColor=white)](#)
 [![C++](https://img.shields.io/badge/-C++-00599C?style=flat&logo=c%2B%2B&logoColor=white)](#)
 [![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white)](#)
+
+### Blog
+
+[Click here to see my blog / 点击这里查看我的 Blog](https://blog.fankes.top)
