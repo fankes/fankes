@@ -23,3 +23,7 @@ An Android developer, and server PHP development.
 ### Blog
 
 [Click here to see my blog / 点击这里查看我的 Blog](https://blog.fankes.top)
+
+## Gitea (Free)
+
+[Click here to see my gitea / 点击这里查看我的 Gitea](https://gitea.fankes.top)
