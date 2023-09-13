@@ -22,6 +22,8 @@
 
 <img src="https://github.com/fankes/fankes/blob/main/img-src/payment_code.jpg?raw=true" width = "500" alt="Payment Code"/>
 
+<br/>
+
 ## 开发者相关
 
 ### SweetDependency
