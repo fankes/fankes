@@ -1,6 +1,6 @@
 ## 开发者公开要饭啦 👋
 
-下面是我的一些开源项目，开源项目维护不易，如果好用请多为我点 star 或关注我的 GitHub 账号以及在 `README` 页面扫码捐赠，十分感谢你的支持！
+下面是我的一些开源项目，开源项目维护不易，如果好用请多为我点 star 或关注我的 GitHub 账号，十分感谢你的支持！
 
 我的 GitHub 账号，[点击这里前往查看](https://github.com/fankes)。
 
@@ -22,7 +22,7 @@
 
 <img src="https://github.com/fankes/fankes/blob/main/img-src/payment_code.jpg?raw=true" width = "500" alt="Payment Code"/>
 
-<br/>
+工作不易，无意外情况这些项目将继续维护下去，提供更多可能，欢迎打赏。
 
 ## 开发者相关
 
