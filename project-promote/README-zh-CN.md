@@ -20,9 +20,10 @@
 
 ## 捐赠支持
 
-<img src="https://github.com/fankes/fankes/blob/main/img-src/payment_code.jpg?raw=true" width = "500" alt="Payment Code"/>
-
 工作不易，无意外情况这些项目将继续维护下去，提供更多可能，欢迎打赏。
+
+<img src="https://github.com/fankes/fankes/blob/main/img-src/payment_code.jpg?raw=true" width = "500" alt="Payment Code"/>
+<br/><br/>
 
 ## 开发者相关
 
