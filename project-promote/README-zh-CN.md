@@ -18,6 +18,10 @@
 
 一些未分类的更多我的开源项目。
 
+## 捐赠支持
+
+<img src="https://github.com/fankes/fankes/blob/main/img-src/payment_code.jpg?raw=true" width = "500" alt="Payment Code"/>
+
 ## 开发者相关
 
 ### SweetDependency
