@@ -1,25 +1,23 @@
 ## Developer is openly begging for food 👋
 
-Below are some of my open source projects, open source projects are not easy to maintain, if they are useful, please give me more stars or follow my
-GitHub account, thank you very much for your support!
+I'm very sorry to take up your time, please allow me to recommend to you some open source projects that I carefully maintain.
+
+If you are interested in these projects and can give them some attention and support, I will be very grateful.
+
+I have been doing these small things for free for charity, I hope these projects can be useful to you.
+
+If you find them useful, you might as well give the project a star or follow my GitHub account.
+
+Thank you very much for your support!
 
 My GitHub account, [click here to view](https://github.com/fankes).
 
-The content below is divided into sections and should take approximately 15-30 seconds to read.
-
-> Developer Related
-
-Dependency libraries to help developers.
-
-> Xposed Module Related
-
-Gadgets that extend functionality for Android devices.
-
-> More Projects
-
-Some more of my open source projects uncategorized.
+The following content is divided into `Developer Related`, `Xposed Module Related`, `More Projects`, `Contacts` sections,
+and the reading time is about 15-30 seconds.
 
 ## Developer Related
+
+Dependency libraries to help developers.
 
 ### SweetDependency
 
@@ -53,6 +51,8 @@ This is a simple Maven repository by using GitHub to manage dependencies.
 
 ## Xposed Module Related
 
+Gadgets that extend functionality for Android devices.
+
 ### TSBattery
 
 **NOTE** Chinese and China's apps ONLY (no I18n and L10n)
@@ -85,8 +85,16 @@ Added more features to app's crash dialog, fixed custom rom deleted dialog, the 
 
 ## More Projects
 
+Some more of my open source projects uncategorized.
+
 ### AndroidNotifyIconAdapt
 
 **NOTE** Chinese ONLY for now (no I18n)
 
 [Click here to view](https://github.com/fankes/AndroidNotifyIconAdapt)
+
+## Contacts
+
+- [Telegram Group](https://t.me/XiaofangInternet)
+- [Telegram Group (Developer)](https://t.me/HighCapable_Dev)
+- [Twitter (X)](https://twitter.com/fankesyooni)
