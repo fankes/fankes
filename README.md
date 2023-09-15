@@ -26,7 +26,7 @@ An Android developer and back-end PHP developer, I am working hard to learn cros
 
 ### Blog
 
-[Click here to see my blog / 点击这里查看我的 Blog](https://blog.fankes.top)
+[Click here to see my blog / 点击这里查看我的 Blog](https://blog.fankes.com)
 
 ### Gitea (Free)
 
