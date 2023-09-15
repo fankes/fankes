@@ -1,10 +1,14 @@
 <img width="50%" align="right" src="https://github-readme-stats.vercel.app/api?username=fankes" />
 
-### Hi there, This is fankes 👋
+### About Me
 
-**你好，这里是 fankes 👋**
+**Hi there, this is fankes, glad you can follow me 👋**
 
-An Android developer, and server PHP development.
+**你好，这里是 fankes (星夜不荟 or 小方，方方??)，很高兴你能够关注我 👋**
+
+An Android developer and back-end PHP developer, I am working hard to learn cross-platform, front-end development technology and mainstream development frameworks such as back-end SpringBoot.
+
+一个 Android 开发者和后端 PHP 开发者，正在努力学习跨平台、前端开发技术以及后端 SpringBoot 等主流开发框架。
 
 ### Specialties
 
@@ -27,3 +31,9 @@ An Android developer, and server PHP development.
 ### Gitea (Free)
 
 [Click here to see my gitea / 点击这里查看我的 Gitea](https://gitea.fankes.top)
+
+### My Projects
+
+[Click here to view my recommended projects (developed and maintained)](https://github.com/fankes/fankes/blob/main/project-promote/README.md)
+
+[点击这里查看我推荐的正在开发和维护的项目](https://github.com/fankes/fankes/blob/main/project-promote/README-zh-CN.md)
