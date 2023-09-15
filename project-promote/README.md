@@ -1,6 +1,7 @@
 ## Developer is openly begging for food 👋
 
-I'm very sorry to take up your time, please allow me to recommend to you some open source projects that I carefully maintain.
+I'm very sorry for taking up a little bit of your precious time,
+please allow me to recommend to you some open source projects that I carefully maintain.
 
 If you are interested in these projects and can give them some attention and support, I will be very grateful.
 
@@ -12,8 +13,7 @@ Thank you very much for your support!
 
 My GitHub account, [click here to view](https://github.com/fankes).
 
-The following content is divided into `Developer Related`, `Xposed Module Related`, `More Projects`, `Contacts` sections,
-and the reading time is about 15-30 seconds.
+The following content is divided into `Developer Related`, `Xposed Module Related`, `More Projects`, `Contacts` sections.
 
 ## Developer Related
 
@@ -23,11 +23,25 @@ Dependency libraries to help developers.
 
 An easy autowire and manage dependencies Gradle plugin.
 
+**Recommendation** ⭐⭐⭐⭐⭐
+
+Do you find Gradle's complex dependency management and dependency update functions very troublesome? Come and use `SweetDependency`, it does not
+require any third-party dependencies, no need to use `buildSrc`, no need to use `includeBuild`,
+One-click integration, plug-and-play, using YAML human-friendly language as the configuration file for dependency management, all dependencies of your
+project can be quickly managed, upgraded with one click, and there are more features waiting for you to discover!
+
 [Click here to view](https://github.com/HighCapable/SweetDependency)
 
 ### SweetProperty
 
 An easy get project properties anywhere Gradle plugin.
+
+**Recommendation** ⭐⭐⭐⭐⭐
+
+If your project is using Kotlin DSL as a build script, then this Gradle plugin can definitely help you. Come and use `SweetProperty`, which can
+automatically analyze `gradle.properties` in your project
+Even the properties key-values in the system environment variables are automatically generated to call the properties key-values used in the build
+script and project, and the corresponding properties key-values content can be directly called using the code!
 
 [Click here to view](https://github.com/HighCapable/SweetProperty)
 
@@ -35,17 +49,34 @@ An easy get project properties anywhere Gradle plugin.
 
 An efficient Hook API and Xposed Module solution built in Kotlin.
 
+**Recommendation** ⭐⭐⭐⭐⭐
+
+Do you want to quickly have your own Xposed module? You only need to have basic Android development experience and master the basic Kotlin programming
+language. Come and try `YukiHookAPI`,
+This is an efficient Hook API and Xposed module solution specially built for you to help make your development easier!
+
 [Click here to view](https://github.com/fankes/YukiHookAPI)
 
 ### YukiReflection
 
 An efficient Reflection API for the Java and Android platform built in Kotlin.
 
+**Recommendation** ⭐⭐⭐⭐⭐
+
+Are you using Kotlin tired of Java’s cumbersome and unchangeable reflection API? Come and try `YukiReflection`.
+It is an efficient Java reflection API implemented in Kotlin that is being used in `YukiHookAPI` and can be used in any of your Java and Android
+projects!
+
 [Click here to view](https://github.com/fankes/YukiReflection)
 
 ### maven-repository-template
 
 This is a simple Maven repository by using GitHub to manage dependencies.
+
+**Recommendation** ⭐⭐⭐⭐
+
+You can use this template project to create your own Maven repository, no server required, no third-party plugins required, and manage your private
+dependencies directly using GitHub!
 
 [Click here to view](https://github.com/HighCapable/maven-repository-template)
 
@@ -81,6 +112,15 @@ Optimize notification icons for ColorOS and adapt to native notification icon sp
 
 Added more features to app's crash dialog, fixed custom rom deleted dialog, the best experience to Android developer.
 
+**Recommendation** ⭐⭐⭐⭐⭐
+
+Some third-party Android systems have deleted the FC dialog, and the limited information when having the FC dialog cannot be clearly displayed or
+recorded in error logs. Developers can only use ADB to
+Only by connecting to a computer or using functions such as capturing device debugging logs provided by the manufacturer can you obtain incomplete
+error logs, making it impossible to accurately analyze the cause of application crashes.
+This is also the reason why this project was born. It can use modules to directly capture the exceptions to any application without connecting to a
+computer, and clearly display the complete error log.
+
 [Click here to view](https://github.com/KitsunePie/AppErrorsTracking)
 
 ## More Projects
@@ -90,6 +130,9 @@ Some more of my open source projects uncategorized.
 ### AndroidNotifyIconAdapt
 
 **NOTE** Chinese ONLY for now (no I18n)
+
+This is an online rules platform that adapts native notification icons and standard icon
+repairs for non-standard Android apps and manufacturers in mainland China.
 
 [Click here to view](https://github.com/fankes/AndroidNotifyIconAdapt)
 
