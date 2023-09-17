@@ -30,7 +30,7 @@ An Android developer and back-end PHP developer, I am working hard to learn cros
 
 ### Gitea (Free)
 
-[Click here to see my gitea / 点击这里查看我的 Gitea](https://gitea.fankes.top)
+[Click here to see my gitea / 点击这里查看我的 Gitea](https://gitea.fankes.com)
 
 ### My Projects
 
