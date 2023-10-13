@@ -45,6 +45,19 @@ script and project, and the corresponding properties key-values content can be d
 
 [Click here to view](https://github.com/HighCapable/SweetProperty)
 
+### FlexiLocale
+
+An easy generation Android i18ns string call Gradle plugin.
+
+**Recommendation** ⭐⭐⭐⭐⭐
+
+If you are tired of the super troublesome i18ns string adaptation of `context.getString(R.string.xxx)` in Android development, then this Gradle plugin
+can definitely help you, come and use `FlexiLocale`,
+it can automatically analyze the i18ns string declared in the `res/values` directory in your project and automatically generate the
+calling class, it only takes a few steps to complete the calling of the i18ns string!
+
+[Click here to view](https://github.com/BetterAndroid/FlexiLocale)
+
 ### YukiHookAPI
 
 An efficient Hook API and Xposed Module solution built in Kotlin.
