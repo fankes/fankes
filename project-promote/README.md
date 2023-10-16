@@ -1,7 +1,7 @@
 ## Developer is openly begging for food 👋
 
 I'm very sorry for taking up a little bit of your precious time,
-please allow me to recommend to you some open source projects that I carefully maintain.
+please allow me to recommend to you some projects that I carefully maintain.
 
 If you are interested in these projects and can give them some attention and support, I will be very grateful.
 
@@ -92,6 +92,24 @@ You can use this template project to create your own Maven repository, no server
 dependencies directly using GitHub!
 
 [Click here to view](https://github.com/HighCapable/maven-repository-template)
+
+## Software Related
+
+Some software projects for Android, iOS or PC users.
+
+### PureReader
+
+Make reading easier.
+
+**Recommendation** ⭐⭐⭐⭐⭐
+
+PureReader is a reading software that collects novels, books, comics and information.
+
+Our product concept is to make the reading experience ubiquitous.
+
+As you can see, PureReader is a **cross-platform** product with **data interoperability** and **consistent experience**.
+
+[Click here to view](https://github.com/PureReader)
 
 ## Xposed Module Related
 
