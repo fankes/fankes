@@ -13,91 +13,15 @@ Thank you very much for your support!
 
 My GitHub account, [click here to view](https://github.com/fankes).
 
-The following content is divided into `Developer Related`, `Xposed Module Related`, `More Projects`, `Contacts` sections.
-
-## Developer Related
-
-Dependency libraries to help developers.
-
-### SweetDependency
-
-An easy autowire and manage dependencies Gradle plugin.
-
-**Recommendation** ⭐⭐⭐⭐⭐
-
-Do you find Gradle's complex dependency management and dependency update functions very troublesome? Come and use `SweetDependency`, it does not
-require any third-party dependencies, no need to use `buildSrc`, no need to use `includeBuild`,
-One-click integration, plug-and-play, using YAML human-friendly language as the configuration file for dependency management, all dependencies of your
-project can be quickly managed, upgraded with one click, and there are more features waiting for you to discover!
-
-[Click here to view](https://github.com/HighCapable/SweetDependency)
-
-### SweetProperty
-
-An easy get project properties anywhere Gradle plugin.
-
-**Recommendation** ⭐⭐⭐⭐⭐
-
-If your project is using Kotlin DSL as a build script, then this Gradle plugin can definitely help you. Come and use `SweetProperty`, which can
-automatically analyze `gradle.properties` in your project
-Even the properties key-values in the system environment variables are automatically generated to call the properties key-values used in the build
-script and project, and the corresponding properties key-values content can be directly called using the code!
-
-[Click here to view](https://github.com/HighCapable/SweetProperty)
-
-### FlexiLocale
-
-An easy generation Android i18ns string call Gradle plugin.
-
-**Recommendation** ⭐⭐⭐⭐⭐
-
-If you are tired of the super troublesome i18ns string adaptation of `context.getString(R.string.xxx)` in Android development, then this Gradle plugin
-can definitely help you, come and use `FlexiLocale`,
-it can automatically analyze the i18ns string declared in the `res/values` directory in your project and automatically generate the
-calling class, it only takes a few steps to complete the calling of the i18ns string!
-
-[Click here to view](https://github.com/BetterAndroid/FlexiLocale)
-
-### YukiHookAPI
-
-An efficient Hook API and Xposed Module solution built in Kotlin.
-
-**Recommendation** ⭐⭐⭐⭐⭐
-
-Do you want to quickly have your own Xposed module? You only need to have basic Android development experience and master the basic Kotlin programming
-language. Come and try `YukiHookAPI`,
-This is an efficient Hook API and Xposed module solution specially built for you to help make your development easier!
-
-[Click here to view](https://github.com/fankes/YukiHookAPI)
-
-### YukiReflection
-
-An efficient Reflection API for the Java and Android platform built in Kotlin.
-
-**Recommendation** ⭐⭐⭐⭐⭐
-
-Are you using Kotlin tired of Java’s cumbersome and unchangeable reflection API? Come and try `YukiReflection`.
-It is an efficient Java reflection API implemented in Kotlin that is being used in `YukiHookAPI` and can be used in any of your Java and Android
-projects!
-
-[Click here to view](https://github.com/fankes/YukiReflection)
-
-### maven-repository-template
-
-This is a simple Maven repository by using GitHub to manage dependencies.
-
-**Recommendation** ⭐⭐⭐⭐
-
-You can use this template project to create your own Maven repository, no server required, no third-party plugins required, and manage your private
-dependencies directly using GitHub!
-
-[Click here to view](https://github.com/HighCapable/maven-repository-template)
+The following content is divided into `Software Related`, `Xposed Module Related`, `More Projects`, `Developer Related`, `Contacts` sections.
 
 ## Software Related
 
 Some software projects for Android, iOS or PC users.
 
 ### PureReader
+
+<img src="https://github.com/PureReader/PureReader-Starter/blob/main/img-src/icon.png?raw=true" width = "50" height = "50" alt="LOGO"/>
 
 Make reading easier.
 
@@ -117,6 +41,8 @@ Gadgets that extend functionality for Android devices.
 
 ### TSBattery
 
+<img src="https://github.com/fankes/TSBattery/blob/master/app/src/main/ic_launcher-playstore.png?raw=true" width = "50" height = "50" alt="LOGO"/>
+
 **NOTE** Chinese and China's apps ONLY (no I18n and L10n)
 
 A new way to save your battery avoid cancer apps hacker it.
@@ -124,6 +50,8 @@ A new way to save your battery avoid cancer apps hacker it.
 [Click here to view](https://github.com/fankes/TSBattery)
 
 ### MIUINativeNotifyIcon
+
+<img src="https://github.com/fankes/MIUINativeNotifyIcon/blob/master/img-src/icon.png?raw=true" width = "50" height = "50" alt="LOGO"/>
 
 **NOTE** Chinese ONLY for now (no I18n)
 
@@ -133,6 +61,8 @@ Fix the native notification bar icon function abandoned by the MIUI development 
 
 ### ColorOSNotifyIcon
 
+<img src="https://github.com/fankes/ColorOSNotifyIcon/blob/master/img-src/icon.png?raw=true" width = "50" height = "50" alt="LOGO"/>
+
 **NOTE** Chinese ONLY for now (no I18n)
 
 Optimize notification icons for ColorOS and adapt to native notification icon specifications.
@@ -140,6 +70,8 @@ Optimize notification icons for ColorOS and adapt to native notification icon sp
 [Click here to view](https://github.com/fankes/ColorOSNotifyIcon)
 
 ### AppErrorsTracking
+
+<img src="https://github.com/KitsunePie/AppErrorsTracking/blob/master/img-src/icon.png?raw=true" width = "50" height = "50" alt="LOGO"/>
 
 Added more features to app's crash dialog, fixed custom rom deleted dialog, the best experience to Android developer.
 
@@ -166,6 +98,94 @@ This is an online rules platform that adapts native notification icons and stand
 repairs for non-standard Android apps and manufacturers in mainland China.
 
 [Click here to view](https://github.com/fankes/AndroidNotifyIconAdapt)
+
+## Developer Related
+
+Dependency libraries to help developers.
+
+### SweetDependency
+
+<img src="https://github.com/HighCapable/SweetDependency/blob/master/img-src/icon.png?raw=true" width = "50" height = "50" alt="LOGO"/>
+
+An easy autowire and manage dependencies Gradle plugin.
+
+**Recommendation** ⭐⭐⭐⭐⭐
+
+Do you find Gradle's complex dependency management and dependency update functions very troublesome? Come and use `SweetDependency`, it does not
+require any third-party dependencies, no need to use `buildSrc`, no need to use `includeBuild`,
+One-click integration, plug-and-play, using YAML human-friendly language as the configuration file for dependency management, all dependencies of your
+project can be quickly managed, upgraded with one click, and there are more features waiting for you to discover!
+
+[Click here to view](https://github.com/HighCapable/SweetDependency)
+
+### SweetProperty
+
+<img src="https://github.com/HighCapable/SweetProperty/blob/master/img-src/icon.png?raw=true" width = "50" height = "50" alt="LOGO"/>
+
+An easy get project properties anywhere Gradle plugin.
+
+**Recommendation** ⭐⭐⭐⭐⭐
+
+If your project is using Kotlin DSL as a build script, then this Gradle plugin can definitely help you. Come and use `SweetProperty`, which can
+automatically analyze `gradle.properties` in your project
+Even the properties key-values in the system environment variables are automatically generated to call the properties key-values used in the build
+script and project, and the corresponding properties key-values content can be directly called using the code!
+
+[Click here to view](https://github.com/HighCapable/SweetProperty)
+
+### FlexiLocale
+
+<img src="https://github.com/BetterAndroid/FlexiLocale/blob/master/img-src/icon.png?raw=true" width = "50" height = "50" alt="LOGO"/>
+
+An easy generation Android i18ns string call Gradle plugin.
+
+**Recommendation** ⭐⭐⭐⭐⭐
+
+If you are tired of the super troublesome i18ns string adaptation of `context.getString(R.string.xxx)` in Android development, then this Gradle plugin
+can definitely help you, come and use `FlexiLocale`,
+it can automatically analyze the i18ns string declared in the `res/values` directory in your project and automatically generate the
+calling class, it only takes a few steps to complete the calling of the i18ns string!
+
+[Click here to view](https://github.com/BetterAndroid/FlexiLocale)
+
+### YukiHookAPI
+
+<img src="https://github.com/HighCapable/YukiHookAPI/blob/master/img-src/icon.png?raw=true" width = "50" height = "50" alt="LOGO"/>
+
+An efficient Hook API and Xposed Module solution built in Kotlin.
+
+**Recommendation** ⭐⭐⭐⭐⭐
+
+Do you want to quickly have your own Xposed module? You only need to have basic Android development experience and master the basic Kotlin programming
+language. Come and try `YukiHookAPI`,
+This is an efficient Hook API and Xposed module solution specially built for you to help make your development easier!
+
+[Click here to view](https://github.com/fankes/YukiHookAPI)
+
+### YukiReflection
+
+<img src="https://github.com/HighCapable/YukiReflection/blob/master/img-src/icon.png?raw=true" width = "50" height = "50" alt="LOGO"/>
+
+An efficient Reflection API for the Java and Android platform built in Kotlin.
+
+**Recommendation** ⭐⭐⭐⭐⭐
+
+Are you using Kotlin tired of Java’s cumbersome and unchangeable reflection API? Come and try `YukiReflection`.
+It is an efficient Java reflection API implemented in Kotlin that is being used in `YukiHookAPI` and can be used in any of your Java and Android
+projects!
+
+[Click here to view](https://github.com/fankes/YukiReflection)
+
+### maven-repository-template
+
+This is a simple Maven repository by using GitHub to manage dependencies.
+
+**Recommendation** ⭐⭐⭐⭐
+
+You can use this template project to create your own Maven repository, no server required, no third-party plugins required, and manage your private
+dependencies directly using GitHub!
+
+[Click here to view](https://github.com/HighCapable/maven-repository-template)
 
 ## Contacts
 
