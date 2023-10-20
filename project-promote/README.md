@@ -21,8 +21,6 @@ Some software projects for Android, iOS or PC users.
 
 ### PureReader
 
-<img src="https://github.com/PureReader/PureReader-Starter/blob/main/img-src/icon.png?raw=true" width = "50" height = "50" alt="LOGO"/>
-
 Make reading easier.
 
 **Recommendation** ⭐⭐⭐⭐⭐
@@ -41,8 +39,6 @@ Gadgets that extend functionality for Android devices.
 
 ### TSBattery
 
-<img src="https://github.com/fankes/TSBattery/blob/master/app/src/main/ic_launcher-playstore.png?raw=true" width = "50" height = "50" alt="LOGO"/>
-
 **NOTE** Chinese and China's apps ONLY (no I18n and L10n)
 
 A new way to save your battery avoid cancer apps hacker it.
@@ -50,8 +46,6 @@ A new way to save your battery avoid cancer apps hacker it.
 [Click here to view](https://github.com/fankes/TSBattery)
 
 ### MIUINativeNotifyIcon
-
-<img src="https://github.com/fankes/MIUINativeNotifyIcon/blob/master/img-src/icon.png?raw=true" width = "50" height = "50" alt="LOGO"/>
 
 **NOTE** Chinese ONLY for now (no I18n)
 
@@ -61,8 +55,6 @@ Fix the native notification bar icon function abandoned by the MIUI development 
 
 ### ColorOSNotifyIcon
 
-<img src="https://github.com/fankes/ColorOSNotifyIcon/blob/master/img-src/icon.png?raw=true" width = "50" height = "50" alt="LOGO"/>
-
 **NOTE** Chinese ONLY for now (no I18n)
 
 Optimize notification icons for ColorOS and adapt to native notification icon specifications.
@@ -70,8 +62,6 @@ Optimize notification icons for ColorOS and adapt to native notification icon sp
 [Click here to view](https://github.com/fankes/ColorOSNotifyIcon)
 
 ### AppErrorsTracking
-
-<img src="https://github.com/KitsunePie/AppErrorsTracking/blob/master/img-src/icon.png?raw=true" width = "50" height = "50" alt="LOGO"/>
 
 Added more features to app's crash dialog, fixed custom rom deleted dialog, the best experience to Android developer.
 
@@ -105,8 +95,6 @@ Dependency libraries to help developers.
 
 ### SweetDependency
 
-<img src="https://github.com/HighCapable/SweetDependency/blob/master/img-src/icon.png?raw=true" width = "50" height = "50" alt="LOGO"/>
-
 An easy autowire and manage dependencies Gradle plugin.
 
 **Recommendation** ⭐⭐⭐⭐⭐
@@ -119,8 +107,6 @@ project can be quickly managed, upgraded with one click, and there are more feat
 [Click here to view](https://github.com/HighCapable/SweetDependency)
 
 ### SweetProperty
-
-<img src="https://github.com/HighCapable/SweetProperty/blob/master/img-src/icon.png?raw=true" width = "50" height = "50" alt="LOGO"/>
 
 An easy get project properties anywhere Gradle plugin.
 
@@ -135,8 +121,6 @@ script and project, and the corresponding properties key-values content can be d
 
 ### FlexiLocale
 
-<img src="https://github.com/BetterAndroid/FlexiLocale/blob/master/img-src/icon.png?raw=true" width = "50" height = "50" alt="LOGO"/>
-
 An easy generation Android i18ns string call Gradle plugin.
 
 **Recommendation** ⭐⭐⭐⭐⭐
@@ -150,8 +134,6 @@ calling class, it only takes a few steps to complete the calling of the i18ns st
 
 ### YukiHookAPI
 
-<img src="https://github.com/HighCapable/YukiHookAPI/blob/master/img-src/icon.png?raw=true" width = "50" height = "50" alt="LOGO"/>
-
 An efficient Hook API and Xposed Module solution built in Kotlin.
 
 **Recommendation** ⭐⭐⭐⭐⭐
@@ -163,8 +145,6 @@ This is an efficient Hook API and Xposed module solution specially built for you
 [Click here to view](https://github.com/fankes/YukiHookAPI)
 
 ### YukiReflection
-
-<img src="https://github.com/HighCapable/YukiReflection/blob/master/img-src/icon.png?raw=true" width = "50" height = "50" alt="LOGO"/>
 
 An efficient Reflection API for the Java and Android platform built in Kotlin.
 
