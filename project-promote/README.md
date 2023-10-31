@@ -156,6 +156,14 @@ projects!
 
 [Click here to view](https://github.com/fankes/YukiReflection)
 
+### compose-multiplatform-template
+
+This is a Jetpack Compose Multiplatform project template that quickly generates Android, iOS, and Desktop (JVM).
+
+**Recommendation** ⭐⭐⭐⭐⭐
+
+You can use this template project to quickly create a Compose multi-platform project, making your development easier!
+
 ### maven-repository-template
 
 This is a simple Maven repository by using GitHub to manage dependencies.
