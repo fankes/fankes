@@ -119,6 +119,16 @@ script and project, and the corresponding properties key-values content can be d
 
 [Click here to view](https://github.com/HighCapable/SweetProperty)
 
+### BetterAndroid
+
+Create more useful tool extensions for Android.
+
+**Recommendation** ⭐⭐⭐⭐⭐
+
+This is an efficient functional extension dependency library for Android developers, which includes multiple modules, our vision is to use this set of dependencies to make development easier for more Android developers, come and try it now!
+
+[Click here to view](https://github.com/BetterAndroid/BetterAndroid)
+
 ### FlexiLocale
 
 An easy generation Android i18ns string call Gradle plugin.
