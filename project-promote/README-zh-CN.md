@@ -6,7 +6,96 @@
 
 我的 GitHub 账号，[点击这里前往查看](https://github.com/fankes)。
 
-下面的内容分为 `软件相关`、`Xposed 模块相关`、`更多项目`、`开发者相关`、`联系方式`、`捐赠支持` 版块。
+下面的内容分为 `开发者相关`、`软件相关`、`Xposed 模块相关`、`更多项目`、`联系方式`、`捐赠支持` 版块。
+
+## 开发者相关
+
+为开发人员提供帮助的依赖库。
+
+### BetterAndroid
+
+为 Android 创建更多有用的工具扩展。
+
+**推荐指数** ⭐⭐⭐⭐⭐
+
+这是一个为 Android 开发者提供的高效功能扩展依赖库，其中包括了多个模块，我们的愿景是通过这套依赖，让更多的 Android 开发者的开发变得更加轻松，赶紧来试试吧！
+
+[点击这里前往查看](https://github.com/BetterAndroid/BetterAndroid)
+
+### FlexiLocale
+
+一个自动为 Android 项目生成国际化字符串调用的 Gradle 插件。
+
+**推荐指数** ⭐⭐⭐⭐⭐
+
+如果你厌倦了 Android 开发中 `context.getString(R.string.xxx)` 超级麻烦的国际化字符串适配，那么这一款 Gradle 插件绝对能帮助到你，快来使用 `FlexiLocale`，
+它能自动分析你的项目中 `res/values` 目录中声明的国际化字符串并自动生成调用类，只需几步即可完成国际化字符串的调用！
+
+[点击这里前往查看](https://github.com/BetterAndroid/FlexiLocale)
+
+### SweetDependency
+
+一个轻松自动装配和管理依赖的 Gradle 插件。
+
+**推荐指数** ⭐⭐⭐⭐⭐
+
+Gradle 复杂的依赖管理以及依赖更新功能是否让你感到十分麻烦？快来使用 `SweetDependency`，它无需任何第三方依赖，无需使用 `buildSrc`，无需使用 `includeBuild`，
+一键集成即插即用，使用 YAML 人性化语言作为依赖管理的配置文件，你的项目所有依赖都可以快速管理，一键升级，还有更多功能等你来发现！
+
+[点击这里前往查看](https://github.com/HighCapable/SweetDependency)
+
+### SweetProperty
+
+一个轻松在任意地方获取项目属性的 Gradle 插件。
+
+**推荐指数** ⭐⭐⭐⭐⭐
+
+如果你的项目正在使用 Kotlin DSL 作为构建脚本，那么这一款 Gradle 插件绝对能帮助到你，快来使用 `SweetProperty`，它能自动分析你的项目中 `gradle.properties`
+甚至是系统环境变量中的属性键值， 自动生成对构建脚本以及项目中使用的属性键值调用代码，能够实现使用代码直接调用对应的属性键值内容！
+
+[点击这里前往查看](https://github.com/HighCapable/SweetProperty)
+
+### YukiHookAPI
+
+一个使用 Kotlin 构建的高效 Hook API 与 Xposed 模块解决方案。
+
+**推荐指数** ⭐⭐⭐⭐⭐
+
+你想快速拥有一个自己的 Xposed 模块吗，你只需要拥有基础的 Android 开发经验以及掌握基础的 Kotlin 编程语言即可，快来试试 `YukiHookAPI`，
+这是一个专为你打造的高效 Hook API 与 Xposed 模块解决方案，助你的开发变得更轻松！
+
+[点击这里前往查看](https://github.com/fankes/YukiHookAPI)
+
+### YukiReflection
+
+一个使用 Kotlin 构建的 Java、Android 平台高效反射 API。
+
+**推荐指数** ⭐⭐⭐⭐⭐
+
+正在使用 Kotlin 的你厌倦了 Java 繁琐而一成不变的反射 API 吗，快来试试 `YukiReflection`，
+它是 `YukiHookAPI` 中正在使用的用 Kotlin 实现的高效 Java 反射 API，能在你的任何 Java 和 Android 项目中使用！
+
+[点击这里前往查看](https://github.com/fankes/YukiReflection)
+
+### compose-multiplatform-template
+
+这是一个快速生成 Android、iOS、Desktop (JVM) 的 Jetpack Compose 多平台项目模版。
+
+**推荐指数** ⭐⭐⭐⭐⭐
+
+你可以使用这个模版项目来快速创建一个 Compose 多平台项目，让你的开发变得更轻松！
+
+[点击这里前往查看](https://github.com/BetterAndroid/compose-multiplatform-template)
+
+### maven-repository-template
+
+这是一个使用 GitHub 管理依赖的简单 Maven 存储库。
+
+**推荐指数** ⭐⭐⭐⭐
+
+你可以使用这个模版项目来创建自己的 Maven 存储库，无需服务器，无需第三方插件，使用 GitHub 直接管理你的私有依赖！
+
+[点击这里前往查看](https://github.com/HighCapable/maven-repository-template)
 
 ## 软件相关
 
@@ -96,95 +185,6 @@ ColorOS，此项目同样对接到了 [Android 通知图标规范适配计划](h
 在线规则平台靠的是你们的贡献和建议，欢迎为应用的通知图标适配做出你的贡献👏🏻
 
 [点击这里前往查看](https://github.com/fankes/AndroidNotifyIconAdapt)
-
-## 开发者相关
-
-为开发人员提供帮助的依赖库。
-
-### SweetDependency
-
-一个轻松自动装配和管理依赖的 Gradle 插件。
-
-**推荐指数** ⭐⭐⭐⭐⭐
-
-Gradle 复杂的依赖管理以及依赖更新功能是否让你感到十分麻烦？快来使用 `SweetDependency`，它无需任何第三方依赖，无需使用 `buildSrc`，无需使用 `includeBuild`，
-一键集成即插即用，使用 YAML 人性化语言作为依赖管理的配置文件，你的项目所有依赖都可以快速管理，一键升级，还有更多功能等你来发现！
-
-[点击这里前往查看](https://github.com/HighCapable/SweetDependency)
-
-### SweetProperty
-
-一个轻松在任意地方获取项目属性的 Gradle 插件。
-
-**推荐指数** ⭐⭐⭐⭐⭐
-
-如果你的项目正在使用 Kotlin DSL 作为构建脚本，那么这一款 Gradle 插件绝对能帮助到你，快来使用 `SweetProperty`，它能自动分析你的项目中 `gradle.properties`
-甚至是系统环境变量中的属性键值， 自动生成对构建脚本以及项目中使用的属性键值调用代码，能够实现使用代码直接调用对应的属性键值内容！
-
-[点击这里前往查看](https://github.com/HighCapable/SweetProperty)
-
-### BetterAndroid
-
-为 Android 创建更多有用的工具扩展。
-
-**推荐指数** ⭐⭐⭐⭐⭐
-
-这是一个为 Android 开发者提供的高效功能扩展依赖库，其中包括了多个模块，我们的愿景是通过这套依赖，让更多的 Android 开发者的开发变得更加轻松，赶紧来试试吧！
-
-[点击这里前往查看](https://github.com/BetterAndroid/BetterAndroid)
-
-### FlexiLocale
-
-一个自动为 Android 项目生成国际化字符串调用的 Gradle 插件。
-
-**推荐指数** ⭐⭐⭐⭐⭐
-
-如果你厌倦了 Android 开发中 `context.getString(R.string.xxx)` 超级麻烦的国际化字符串适配，那么这一款 Gradle 插件绝对能帮助到你，快来使用 `FlexiLocale`，
-它能自动分析你的项目中 `res/values` 目录中声明的国际化字符串并自动生成调用类，只需几步即可完成国际化字符串的调用！
-
-[点击这里前往查看](https://github.com/BetterAndroid/FlexiLocale)
-
-### YukiHookAPI
-
-一个使用 Kotlin 构建的高效 Hook API 与 Xposed 模块解决方案。
-
-**推荐指数** ⭐⭐⭐⭐⭐
-
-你想快速拥有一个自己的 Xposed 模块吗，你只需要拥有基础的 Android 开发经验以及掌握基础的 Kotlin 编程语言即可，快来试试 `YukiHookAPI`，
-这是一个专为你打造的高效 Hook API 与 Xposed 模块解决方案，助你的开发变得更轻松！
-
-[点击这里前往查看](https://github.com/fankes/YukiHookAPI)
-
-### YukiReflection
-
-一个使用 Kotlin 构建的 Java、Android 平台高效反射 API。
-
-**推荐指数** ⭐⭐⭐⭐⭐
-
-正在使用 Kotlin 的你厌倦了 Java 繁琐而一成不变的反射 API 吗，快来试试 `YukiReflection`，
-它是 `YukiHookAPI` 中正在使用的用 Kotlin 实现的高效 Java 反射 API，能在你的任何 Java 和 Android 项目中使用！
-
-[点击这里前往查看](https://github.com/fankes/YukiReflection)
-
-### compose-multiplatform-template
-
-这是一个快速生成 Android、iOS、Desktop (JVM) 的 Jetpack Compose 多平台项目模版。
-
-**推荐指数** ⭐⭐⭐⭐⭐
-
-你可以使用这个模版项目来快速创建一个 Compose 多平台项目，让你的开发变得更轻松！
-
-[点击这里前往查看](https://github.com/BetterAndroid/compose-multiplatform-template)
-
-### maven-repository-template
-
-这是一个使用 GitHub 管理依赖的简单 Maven 存储库。
-
-**推荐指数** ⭐⭐⭐⭐
-
-你可以使用这个模版项目来创建自己的 Maven 存储库，无需服务器，无需第三方插件，使用 GitHub 直接管理你的私有依赖！
-
-[点击这里前往查看](https://github.com/HighCapable/maven-repository-template)
 
 ## 联系方式
 
