@@ -92,6 +92,16 @@ projects!
 
 [Click here to view](https://github.com/fankes/YukiReflection)
 
+### android-app-template
+
+This is a template for quickly creating a basic Android project.
+
+**Recommendation** ⭐⭐⭐⭐⭐
+
+You can use this template project to quickly create a clean and concise standard Android project.
+
+[Click here to view](https://github.com/BetterAndroid/android-app-template)
+
 ### compose-multiplatform-template
 
 This is a Jetpack Compose Multiplatform project template that quickly generates Android, iOS, and Desktop (JVM).
