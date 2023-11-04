@@ -19,6 +19,20 @@ The following content is divided into `Developer Related`, `Software Related`, `
 
 Dependency libraries to help developers.
 
+### FlexiUI
+
+A flexible and useful UI component library.
+
+**Recommendation** ⭐⭐⭐⭐⭐
+
+This is a flexible and useful UI component library, named after the word "flexible".
+
+It supports `Jetpack Compose` and `Flutter`, and is another UI framework completely implemented by itself after the official Material Design.
+
+If you are interested, click on the link below to take a look!
+
+[Click here to view](https://github.com/BetterAndroid/FlexiUI)
+
 ### BetterAndroid
 
 Create more useful tool extensions for Android.

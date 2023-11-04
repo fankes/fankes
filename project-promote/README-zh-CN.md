@@ -12,6 +12,20 @@
 
 为开发人员提供帮助的依赖库。
 
+### FlexiUI
+
+一个灵活且实用的 UI 组件库。
+
+**推荐指数** ⭐⭐⭐⭐⭐
+
+这是一个一个灵活且实用的 UI 组件库，名称取自英文单词 "flexible"。
+
+它支持 `Jetack Compose` 和 `Flutter`，是继官方 Material Desgin 后的另一套完全由自己实现的 UI 框架。
+
+如果你感兴趣，快点击下方的链接看看吧！
+
+[点击这里前往查看](https://github.com/BetterAndroid/FlexiUI)
+
 ### BetterAndroid
 
 为 Android 创建更多有用的工具扩展。
