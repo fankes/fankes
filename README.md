@@ -6,9 +6,13 @@
 
 **你好，这里是 fankes (星夜不荟 or 小方，方方🥰)，很高兴你能够关注我 👋**
 
-An Android developer and back-end PHP developer, I am working hard to learn cross-platform, front-end development technology and mainstream development frameworks such as back-end SpringBoot.
+More than 5 years of experience in Android native development and back-end PHP development, **patients with severe perfection obsessive-compulsive disorder**, has been working hard for a more perfect user experience.
 
-一个 Android 开发者和后端 PHP 开发者，正在努力学习跨平台、前端开发技术以及后端 SpringBoot 等主流开发框架。
+I am currently learning cross-platform technology, front-end development technology, and back-end SpringBoot, etc.
+
+拥有 5 年以上 Android 原生开发经验，兼后端 PHP 开发，**重度完美强迫症患者**，一直在为更完美的用户体验做努力。
+
+我目前正在学习跨平台技术、前端开发技术以及后端 SpringBoot 等。
 
 ### Specialties
 
@@ -35,8 +39,30 @@ An Android developer and back-end PHP developer, I am working hard to learn cros
 
 [Click here to see my gitea / 点击这里查看我的 Gitea](https://gitea.fankes.com)
 
+### My Organizations
+  
+| <img src="https://github.com/HighCapable/.github/blob/main/img-src/logo.jpg?raw=true" width = "30" height = "30" alt="LOGO"/> | [HighCapable](https://github.com/HighCapable) |
+|-------------------------------------------------------------------------------------------------------------------------------|-----------------------------------------------|
+
+| <img src="https://github.com/BetterAndroid/.github/blob/main/img-src/logo.png?raw=true" width = "30" height = "30" alt="LOGO"/> | [BetterAndroid](https://github.com/BetterAndroid) |
+| ------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------- |
+
+| <img src="https://github.com/PureReader/.github/blob/main/img-src/logo.png?raw=true" width = "30" height = "30" alt="LOGO"/> | [PureReader](https://github.com/PureReader) |
+|------------------------------------------------------------------------------------------------------------------------------|---------------------------------------------|
+
 ### My Projects
 
 [Click here to view my recommended projects (developed and maintained)](https://github.com/fankes/fankes/blob/main/project-promote/README.md)
 
 [点击这里查看我推荐的正在开发和维护的项目](https://github.com/fankes/fankes/blob/main/project-promote/README-zh-CN.md)
+
+### Contacts
+
+My fans & developers communication community
+
+旗下粉丝 & 开发者交流社区 (快来应援方方鸭~🥰)
+
+[![Telegram](https://img.shields.io/badge/discussion-Telegram-blue.svg?logo=telegram)](https://t.me/XiaofangInternet)
+[![Telegram](https://img.shields.io/badge/discussion%20dev-Telegram-blue.svg?logo=telegram)](https://t.me/HighCapable_Dev)
+[![QQ](https://img.shields.io/badge/discussion-QQ-blue.svg?logo=tencent-qq&logoColor=red)](https://qm.qq.com/cgi-bin/qm/qr?k=dp2h5YhWiga9WWb_Oh7kSHmx01X8I8ii&jump_from=webapi&authKey=Za5CaFP0lk7+Zgsk2KpoBD7sSaYbeXbsDgFjiWelOeH4VSionpxFJ7V0qQBSqvFM)
+[![QQ 频道](https://img.shields.io/badge/discussion-QQ%20频道-blue.svg?logo=tencent-qq&logoColor=red)](https://pd.qq.com/s/44gcy28h)
