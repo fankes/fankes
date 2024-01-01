@@ -215,6 +215,7 @@ ColorOS，此项目同样对接到了 [Android 通知图标规范适配计划](h
 - [Telegram 群组](https://t.me/XiaofangInternet)
 - [Telegram 群组 (开发者)](https://t.me/HighCapable_Dev)
 - [QQ 群](https://qm.qq.com/cgi-bin/qm/qr?k=dp2h5YhWiga9WWb_Oh7kSHmx01X8I8ii&jump_from=webapi&authKey=Za5CaFP0lk7+Zgsk2KpoBD7sSaYbeXbsDgFjiWelOeH4VSionpxFJ7V0qQBSqvFM)
+- [QQ 群 (开发者)](https://qm.qq.com/cgi-bin/qm/qr?k=Pnsc5RY6N2mBKFjOLPiYldbAbprAU3V7&jump_from=webapi&authKey=X5EsOVzLXt1dRunge8ryTxDRrh9/IiW1Pua75eDLh9RE3KXE+bwXIYF5cWri/9lf)
 - [QQ 频道](https://pd.qq.com/s/44gcy28h)
 - [酷安](http://www.coolapk.com/u/876977)
 - [Twitter (X)](https://twitter.com/fankesyooni)
