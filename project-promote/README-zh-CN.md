@@ -20,7 +20,7 @@
 
 这是一个一个灵活且实用的 UI 组件库，名称取自英文单词 "flexible"。
 
-它支持 `Jetack Compose` 和 `Flutter`，是继官方 Material Desgin 后的另一套完全由自己实现的 UI 框架。
+它支持 `Jetpack Compose` 和 `Flutter`，是继官方 Material Desgin 后的另一套完全由自己实现的 UI 框架。
 
 如果你感兴趣，快点击下方的链接看看吧！
 
