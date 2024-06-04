@@ -225,6 +225,7 @@ repairs for non-standard Android apps and manufacturers in mainland China.
 
 ## Contacts
 
+- [Telegram Channel](https://t.me/XiaofangDaily)
 - [Telegram Group](https://t.me/XiaofangInternet)
 - [Telegram Group (Developer)](https://t.me/HighCapable_Dev)
 - [Twitter (X)](https://twitter.com/fankesyooni)
