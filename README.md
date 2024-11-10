@@ -58,9 +58,9 @@ I am currently learning cross-platform technology, front-end development technol
 
 #### Project Maintenance Plan
 
-[Click here to view my project maintenance plan](https://github.com/fankes/fankes/blob/main/project-promote/project-maintenance-plan/README.md)
+[Click here to view my project maintenance plan](https://github.com/fankes/fankes/blob/main/project-maintenance-plan/README.md)
 
-[点击这里查看我正在开发的项目维护计划](https://github.com/fankes/fankes/blob/main/project-promote/project-maintenance-plan/README-zh-CN.md)
+[点击这里查看我正在开发的项目维护计划](https://github.com/fankes/fankes/blob/main/project-maintenance-plan/README-zh-CN.md)
 
 ### Contacts
 
