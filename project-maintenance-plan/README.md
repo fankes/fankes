@@ -78,6 +78,18 @@ Some issues remain unresolved. Maintenance will resume when new ideas emerge and
 
 The project aims to provide a convenient API and module development environment for Xposed developers. Currently, the project is preparing for the 2.0.0 plan. Due to LSPosed being closed-source and the continuous adjustment of the libxposed (new API) plan, and my lack of interest in continuing Xposed module development and being busy with work, only periodic dependency updates are done for now. (If anyone is willing to take over the new design ideas in the 2.0.0 plan, please contact me for collaboration)
 
+### [YukiHookAPI-ProjectBuilder](https://github.com/HighCapable/YukiHookAPI-ProjectBuilder)
+
+![GitHub Repo stars](https://img.shields.io/github/stars/HighCapable/YukiHookAPI-ProjectBuilder)
+![GitHub Issues or Pull Requests](https://img.shields.io/github/issues/HighCapable/YukiHookAPI-ProjectBuilder)
+
+![GitHub last commit (branch)](https://img.shields.io/github/last-commit/HighCapable/YukiHookAPI-ProjectBuilder/master)
+![GitHub commit activity (branch)](https://img.shields.io/github/commit-activity/t/HighCapable/YukiHookAPI-ProjectBuilder/master?label=commits%20(master)&color=green)
+
+![Basic Status](https://img.shields.io/badge/Basic%20Status-Maintenance%20Suspended-red)
+
+This project will be migrated to the IDEA plugin and the independent project creation tool will be suspended.
+
 ### [YukiReflection](https://github.com/HighCapable/YukiReflection)
 
 ![GitHub Repo stars](https://img.shields.io/github/stars/HighCapable/YukiReflection)

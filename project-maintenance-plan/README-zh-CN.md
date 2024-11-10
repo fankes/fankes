@@ -78,6 +78,18 @@ Android 业务需求优先维护。
 
 这个项目的初衷是为广大 Xposed 开发者提供一个便捷的 API 和模块开发环境搭建方式，现在项目止步于正在准备 2.0.0 计划，由于 LSPosed 闭源及 libxposed (新 API) 计划持续调整，加上本人不是很想继续涉猎 Xposed 模块的开发以及自身工作繁忙，暂时仅做定期依赖结构更新。(如果有后继者愿意接手 2.0.0 计划中的新设计思路，可以联系我合作)
 
+### [YukiHookAPI-ProjectBuilder](https://github.com/HighCapable/YukiHookAPI-ProjectBuilder)
+
+![GitHub Repo stars](https://img.shields.io/github/stars/HighCapable/YukiHookAPI-ProjectBuilder)
+![GitHub Issues or Pull Requests](https://img.shields.io/github/issues/HighCapable/YukiHookAPI-ProjectBuilder)
+
+![GitHub last commit (branch)](https://img.shields.io/github/last-commit/HighCapable/YukiHookAPI-ProjectBuilder/master)
+![GitHub commit activity (branch)](https://img.shields.io/github/commit-activity/t/HighCapable/YukiHookAPI-ProjectBuilder/master?label=commits%20(master)&color=green)
+
+![Basic Status](https://img.shields.io/badge/基本状态-暂停维护-red)
+
+这个项目将会迁移到 IDEA 插件，独立的项目创建工具将暂停维护。
+
 ### [YukiReflection](https://github.com/HighCapable/YukiReflection)
 
 ![GitHub Repo stars](https://img.shields.io/github/stars/HighCapable/YukiReflection)
