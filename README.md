@@ -42,19 +42,25 @@ I am currently learning cross-platform technology, front-end development technol
 ### My Organizations
   
 | <img src="https://github.com/HighCapable/.github/blob/main/img-src/logo.jpg?raw=true" width = "30" height = "30" alt="LOGO"/> | [HighCapable](https://github.com/HighCapable) |
-|-------------------------------------------------------------------------------------------------------------------------------|-----------------------------------------------|
+| ----------------------------------------------------------------------------------------------------------------------------- | --------------------------------------------- |
 
 | <img src="https://github.com/BetterAndroid/.github/blob/main/img-src/logo.png?raw=true" width = "30" height = "30" alt="LOGO"/> | [BetterAndroid](https://github.com/BetterAndroid) |
 | ------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------- |
 
 | <img src="https://github.com/PureReader/.github/blob/main/img-src/logo.png?raw=true" width = "30" height = "30" alt="LOGO"/> | [PureReader](https://github.com/PureReader) |
-|------------------------------------------------------------------------------------------------------------------------------|---------------------------------------------|
+| ---------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------- |
 
 ### My Projects
 
 [Click here to view my recommended projects (developed and maintained)](https://github.com/fankes/fankes/blob/main/project-promote/README.md)
 
 [点击这里查看我推荐的正在开发和维护的项目](https://github.com/fankes/fankes/blob/main/project-promote/README-zh-CN.md)
+
+#### Project Maintenance Plan
+
+[Click here to view my project maintenance plan](https://github.com/fankes/fankes/blob/main/project-promote/project-maintenance-plan/README.md)
+
+[点击这里查看我正在开发的项目维护计划](https://github.com/fankes/fankes/blob/main/project-promote/project-maintenance-plan/README-zh-CN.md)
 
 ### Contacts
 
