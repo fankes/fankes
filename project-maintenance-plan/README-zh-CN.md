@@ -28,7 +28,17 @@
 
 ![Basic Status](https://img.shields.io/badge/基本状态-积极维护-blue)
 
-Android 业务需求优先维护。
+### [PanguText](https://github.com/BetterAndroid/PanguText)
+
+![GitHub Repo stars](https://img.shields.io/github/stars/BetterAndroid/PanguText)
+![GitHub Issues or Pull Requests](https://img.shields.io/github/issues/BetterAndroid/PanguText)
+
+![GitHub last commit (branch)](https://img.shields.io/github/last-commit/BetterAndroid/PanguText/main)
+![GitHub commit activity (branch)](https://img.shields.io/github/commit-activity/t/BetterAndroid/PanguText/main?label=commits%20(main)&color=green)
+
+![Basic Status](https://img.shields.io/badge/基本状态-积极维护-blue)
+
+新项目，业务需求优先维护。
 
 ### [FlexiLocale](https://github.com/BetterAndroid/FlexiLocale)
 

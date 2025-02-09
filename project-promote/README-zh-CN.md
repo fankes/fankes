@@ -36,6 +36,18 @@
 
 [点击这里前往查看](https://github.com/BetterAndroid/BetterAndroid)
 
+### PanguText
+
+一个中日韩 (CJK) 与英文单词、半角数字排版的解决方案。
+
+同类型项目可参考 [pangu.js](https://github.com/vinta/pangu.js)。
+
+**推荐指数** ⭐⭐⭐⭐⭐
+
+这是一个为移动端 App 提供的中日韩 (CJK) 与英文单词、半角数字排版的解决方案，主要服务于中文和英文语境混用的环境，这是一套轻量级无侵入性的解决方案，皆在快速解决文本排版问题，起因为在此之前市面上还没有一套完美的解决方案，有解决方案的厂商和企业也没有对外公开他们的方案，喜欢在中英文之间加空格的强迫症患者现在不需要再进行这种操作了。
+
+[点击这里前往查看](https://github.com/BetterAndroid/PanguText)
+
 ### FlexiLocale
 
 一个自动为 Android 项目生成国际化字符串调用的 Gradle 插件。

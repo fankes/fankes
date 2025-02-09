@@ -43,6 +43,18 @@ This is an efficient functional extension dependency library for Android develop
 
 [Click here to view](https://github.com/BetterAndroid/BetterAndroid)
 
+### PanguText
+
+A typographic solution for the optimal alignment of CJK characters, English words, and half-width digits.
+
+Similar projects can refer to [pangu.js](https://github.com/vinta/pangu.js).
+
+**Recommendation** ⭐⭐⭐⭐⭐
+
+This is a typographic solution for mobile apps that provides optimal alignment for CJK (Chinese, Japanese, Korean) characters, English words, and half-width digits. It primarily serves environments where Chinese and English are mixed. This is a lightweight, non-intrusive solution aimed at quickly resolving text alignment issues. Previously, there was no perfect solution available on the market, and companies with solutions did not publicly share them. Now, those who are particular about adding spaces between Chinese and English no longer need to do so manually.
+
+[Click here to view](https://github.com/BetterAndroid/PanguText)
+
 ### FlexiLocale
 
 An easy generation Android i18ns string call Gradle plugin.

@@ -30,6 +30,18 @@ Waiting for prototype design specification document, maintenance paused.
 
 Android business requirements are prioritized for maintenance.
 
+### [PanguText](https://github.com/BetterAndroid/PanguText)
+
+![GitHub Repo stars](https://img.shields.io/github/stars/BetterAndroid/PanguText)
+![GitHub Issues or Pull Requests](https://img.shields.io/github/issues/BetterAndroid/PanguText)
+
+![GitHub last commit (branch)](https://img.shields.io/github/last-commit/BetterAndroid/PanguText/main)
+![GitHub commit activity (branch)](https://img.shields.io/github/commit-activity/t/BetterAndroid/PanguText/main?label=commits%20(main)&color=green)
+
+![Basic Status](https://img.shields.io/badge/Basic%20Status-Actively%20Maintained-blue)
+
+New project, business requirements are prioritized for maintenance.
+
 ### [FlexiLocale](https://github.com/BetterAndroid/FlexiLocale)
 
 ![GitHub Repo stars](https://img.shields.io/github/stars/BetterAndroid/FlexiLocale)
