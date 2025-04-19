@@ -43,6 +43,18 @@ This is an efficient functional extension dependency library for Android develop
 
 [Click here to view](https://github.com/BetterAndroid/BetterAndroid)
 
+### Hikage
+
+An Android responsive UI building tool.
+
+**Recommendation** ⭐⭐⭐⭐⭐
+
+This is an Android responsive UI build tool designed to focus on **Real-time code building UI**.
+
+If you're tired of unchanging XML layouts and don't want to learn or use Jetpack Compose in a restricted environment, then try Hikage, you can use 100% Kotlin DSL for layouts and use all Android native components.
+
+[Click here to view](https://github.com/BetterAndroid/Hikage)
+
 ### PanguText
 
 A typographic solution for the optimal alignment of CJK characters, English words, and half-width digits.

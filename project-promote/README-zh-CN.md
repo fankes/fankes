@@ -36,6 +36,18 @@
 
 [点击这里前往查看](https://github.com/BetterAndroid/BetterAndroid)
 
+### Hikage
+
+一个 Android 响应式 UI 构建工具。
+
+**推荐指数** ⭐⭐⭐⭐⭐
+
+这是一个 Android 响应式 UI 构建工具，它的设计聚焦于 **实时代码构建 UI**。
+
+如果你厌倦了一成不变的 XML 布局，同时又不想学习或在有限制的环境中使用 Jetpack Compose，那么就来试试 Hikage 吧，你可以 100% 使用 Kotlin DSL 进行布局，并且能使用所有 Android 原生组件。
+
+[点击这里前往查看](https://github.com/BetterAndroid/Hikage)
+
 ### PanguText
 
 一个中日韩 (CJK) 与英文单词、半角数字排版的解决方案。

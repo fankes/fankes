@@ -28,6 +28,18 @@
 
 ![Basic Status](https://img.shields.io/badge/基本状态-积极维护-blue)
 
+### [Hikage](https://github.com/BetterAndroid/Hikage)
+
+![GitHub Repo stars](https://img.shields.io/github/stars/BetterAndroid/Hikage)
+![GitHub Issues or Pull Requests](https://img.shields.io/github/issues/BetterAndroid/Hikage)
+
+![GitHub last commit (branch)](https://img.shields.io/github/last-commit/BetterAndroid/Hikage/main)
+![GitHub commit activity (branch)](https://img.shields.io/github/commit-activity/t/BetterAndroid/Hikage/main?label=commits%20(main)&color=green)
+
+![Basic Status](https://img.shields.io/badge/基本状态-积极维护-blue)
+
+新项目，业务需求优先维护。
+
 ### [PanguText](https://github.com/BetterAndroid/PanguText)
 
 ![GitHub Repo stars](https://img.shields.io/github/stars/BetterAndroid/PanguText)

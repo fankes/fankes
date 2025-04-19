@@ -30,6 +30,18 @@ Waiting for prototype design specification document, maintenance paused.
 
 Android business requirements are prioritized for maintenance.
 
+### [Hikage](https://github.com/BetterAndroid/Hikage)
+
+![GitHub Repo stars](https://img.shields.io/github/stars/BetterAndroid/Hikage)
+![GitHub Issues or Pull Requests](https://img.shields.io/github/issues/BetterAndroid/Hikage)
+
+![GitHub last commit (branch)](https://img.shields.io/github/last-commit/BetterAndroid/Hikage/main)
+![GitHub commit activity (branch)](https://img.shields.io/github/commit-activity/t/BetterAndroid/Hikage/main?label=commits%20(main)&color=green)
+
+![Basic Status](https://img.shields.io/badge/Basic%20Status-Actively%20Maintained-blue)
+
+New project, business requirements are prioritized for maintenance.
+
 ### [PanguText](https://github.com/BetterAndroid/PanguText)
 
 ![GitHub Repo stars](https://img.shields.io/github/stars/BetterAndroid/PanguText)
