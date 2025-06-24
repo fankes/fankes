@@ -16,20 +16,20 @@ I am currently learning cross-platform technology, front-end development technol
 
 ### Specialties
 
-[![Android+Compose](https://img.shields.io/badge/-Android%20+%20Jetpack%20Compose-3DDC84?style=flat&logo=Android&logoColor=white)](#)
-[![Kotlin](https://img.shields.io/badge/-Kotlin-7F52FF?style=flat&logo=kotlin&logoColor=white)](#)
-[![Java](https://img.shields.io/badge/-Java-007396?style=flat&logo=java&logoColor=white)](#)
-[![JavaScript](https://img.shields.io/badge/-JavaScript-ffcc00?style=flat&logo=javascript&logoColor=white)](#)
-[![TypeScript](https://img.shields.io/badge/-TypeScript-4476c0?style=flat&logo=typescript&logoColor=white)](#)
-[![PHP](https://img.shields.io/badge/-PHP-777BB4?style=flat&logo=php&logoColor=white)](#)
+[![Android+Compose](https://img.shields.io/badge/-Android%20+%20Jetpack%20Compose-3DDC84?style=flat-square&logo=Android&logoColor=white)](#)
+[![Kotlin](https://img.shields.io/badge/-Kotlin-7F52FF?style=flat-square&logo=kotlin&logoColor=white)](#)
+[![Java](https://img.shields.io/badge/-Java-007396?style=flat-square&logo=java&logoColor=white)](#)
+[![JavaScript](https://img.shields.io/badge/-JavaScript-ffcc00?style=flat-square&logo=javascript&logoColor=white)](#)
+[![TypeScript](https://img.shields.io/badge/-TypeScript-4476c0?style=flat-square&logo=typescript&logoColor=white)](#)
+[![PHP](https://img.shields.io/badge/-PHP-777BB4?style=flat-square&logo=php&logoColor=white)](#)
 
 ### WIP
 
-[![Swift](https://img.shields.io/badge/-Swift-e5583c?style=flat&logo=swift&logoColor=white)](#)
-[![Dart](https://img.shields.io/badge/-Dart-245797?style=flat&logo=dart&logoColor=white)](#)
-[![Flutter](https://img.shields.io/badge/-Flutter-6ecdf8?style=flat&logo=flutter&logoColor=white)](#)
-[![C++](https://img.shields.io/badge/-C++-00599C?style=flat&logo=c%2B%2B&logoColor=white)](#)
-[![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white)](#)
+[![Swift](https://img.shields.io/badge/-Swift-e5583c?style=flat-square&logo=swift&logoColor=white)](#)
+[![Dart](https://img.shields.io/badge/-Dart-245797?style=flat-square&logo=dart&logoColor=white)](#)
+[![Flutter](https://img.shields.io/badge/-Flutter-6ecdf8?style=flat-square&logo=flutter&logoColor=white)](#)
+[![C++](https://img.shields.io/badge/-C++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white)](#)
+[![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)](#)
 
 ### Blog
 
@@ -68,9 +68,9 @@ My fans & developers communication community
 
 旗下粉丝 & 开发者交流社区 (快来应援方方鸭~🥰)
 
-[![Telegram Channel](https://img.shields.io/badge/channel-Telegram-blue.svg?logo=telegram)](https://t.me/XiaofangDaily)
-[![Telegram](https://img.shields.io/badge/discussion-Telegram-blue.svg?logo=telegram)](https://t.me/XiaofangInternet)
-[![Telegram](https://img.shields.io/badge/discussion%20dev-Telegram-blue.svg?logo=telegram)](https://t.me/HighCapable_Dev)
-[![QQ](https://img.shields.io/badge/channel-QQ-blue.svg?logo=tencent-qq&logoColor=red)](https://pd.qq.com/s/44gcy28h)
-[![QQ](https://img.shields.io/badge/discussion-QQ-blue.svg?logo=tencent-qq&logoColor=red)](https://qm.qq.com/cgi-bin/qm/qr?k=dp2h5YhWiga9WWb_Oh7kSHmx01X8I8ii&jump_from=webapi&authKey=Za5CaFP0lk7+Zgsk2KpoBD7sSaYbeXbsDgFjiWelOeH4VSionpxFJ7V0qQBSqvFM)
-[![QQ](https://img.shields.io/badge/discussion%20dev-QQ-blue.svg?logo=tencent-qq&logoColor=red)](https://qm.qq.com/cgi-bin/qm/qr?k=Pnsc5RY6N2mBKFjOLPiYldbAbprAU3V7&jump_from=webapi&authKey=X5EsOVzLXt1dRunge8ryTxDRrh9/IiW1Pua75eDLh9RE3KXE+bwXIYF5cWri/9lf)
+[![Telegram Channel](https://img.shields.io/badge/channel-Telegram-blue.svg?logo=telegram&style=flat-square)](https://t.me/XiaofangDaily)
+[![Telegram](https://img.shields.io/badge/discussion-Telegram-blue.svg?logo=telegram&style=flat-square)](https://t.me/XiaofangInternet)
+[![Telegram](https://img.shields.io/badge/discussion%20dev-Telegram-blue.svg?logo=telegram&style=flat-square)](https://t.me/HighCapable_Dev)
+[![QQ](https://img.shields.io/badge/channel-QQ-blue.svg?logo=tencent-qq&logoColor=red&style=flat-square)](https://pd.qq.com/s/44gcy28h)
+[![QQ](https://img.shields.io/badge/discussion-QQ-blue.svg?logo=tencent-qq&logoColor=red&style=flat-square)](https://qm.qq.com/cgi-bin/qm/qr?k=dp2h5YhWiga9WWb_Oh7kSHmx01X8I8ii&jump_from=webapi&authKey=Za5CaFP0lk7+Zgsk2KpoBD7sSaYbeXbsDgFjiWelOeH4VSionpxFJ7V0qQBSqvFM)
+[![QQ](https://img.shields.io/badge/discussion%20dev-QQ-blue.svg?logo=tencent-qq&logoColor=red&style=flat-square)](https://qm.qq.com/cgi-bin/qm/qr?k=Pnsc5RY6N2mBKFjOLPiYldbAbprAU3V7&jump_from=webapi&authKey=X5EsOVzLXt1dRunge8ryTxDRrh9/IiW1Pua75eDLh9RE3KXE+bwXIYF5cWri/9lf)
