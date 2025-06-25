@@ -94,9 +94,9 @@
 ![GitHub last commit (branch)](https://img.shields.io/github/last-commit/HighCapable/YukiHookAPI/master?style=flat-square)
 ![GitHub commit activity (branch)](https://img.shields.io/github/commit-activity/t/HighCapable/YukiHookAPI/master?label=commits%20(master)&color=green&style=flat-square)
 
-![Basic Status](https://img.shields.io/badge/基本状态-缓慢维护-yellow?style=for-the-badge)
+![Basic Status](https://img.shields.io/badge/基本状态-正常维护-blue?style=for-the-badge)
 
-这个项目的初衷是为广大 Xposed 开发者提供一个便捷的 API 和模块开发环境搭建方式，现在项目止步于正在准备 2.0.0 计划，由于 LSPosed 闭源及 libxposed (新 API) 计划持续调整，加上本人不是很想继续涉猎 Xposed 模块的开发以及自身工作繁忙，暂时仅做定期依赖结构更新。(如果有后继者愿意接手 2.0.0 计划中的新设计思路，可以联系我合作)
+这个项目的初衷是为广大 Xposed 开发者提供一个便捷的 API 和模块开发环境搭建方式，现在项目依然正在准备 2.0.0 计划，由于 LSPosed 新版本一直在内测状态，且 libxposed (新 API) 计划持续调整，加上本人不是很想继续涉猎 Xposed 模块的开发以及自身工作繁忙，暂时仅做基本功能维护和定期依赖结构更新。(后期如果有愿意一起讨论 2.0.0 计划中新设计思路的开发者，可以联系我合作)
 
 ### [YukiHookAPI-ProjectBuilder](https://github.com/HighCapable/YukiHookAPI-ProjectBuilder)
 
@@ -110,7 +110,19 @@
 
 这个项目将会迁移到 IDEA 插件，独立的项目创建工具将暂停维护。
 
-### [YukiReflection](https://github.com/HighCapable/YukiReflection)
+### [KavaRef](https://github.com/HighCapable/KavaRef)
+
+![GitHub Repo stars](https://img.shields.io/github/stars/HighCapable/KavaRef)
+![GitHub Issues or Pull Requests](https://img.shields.io/github/issues/HighCapable/KavaRef?style=flat-square)
+
+![GitHub last commit (branch)](https://img.shields.io/github/last-commit/HighCapable/KavaRef/main?style=flat-square)
+![GitHub commit activity (branch)](https://img.shields.io/github/commit-activity/t/HighCapable/KavaRef/main?label=commits%20(main)&color=green&style=flat-square)
+
+![Basic Status](https://img.shields.io/badge/基本状态-积极维护-blue?style=for-the-badge)
+
+新项目，业务需求优先维护。
+
+### ~~[YukiReflection](https://github.com/HighCapable/YukiReflection)~~
 
 ![GitHub Repo stars](https://img.shields.io/github/stars/HighCapable/YukiReflection)
 ![GitHub Issues or Pull Requests](https://img.shields.io/github/issues/HighCapable/YukiReflection?style=flat-square)
@@ -118,9 +130,9 @@
 ![GitHub last commit (branch)](https://img.shields.io/github/last-commit/HighCapable/YukiReflection/master?style=flat-square)
 ![GitHub commit activity (branch)](https://img.shields.io/github/commit-activity/t/HighCapable/YukiReflection/master?label=commits%20(master)&color=green&style=flat-square)
 
-![Basic Status](https://img.shields.io/badge/基本状态-暂缓维护-red?style=for-the-badge)
+![Basic Status](https://img.shields.io/badge/基本状态-停止维护%20(已弃用)-red?style=for-the-badge)
 
-这个项目准备重构，之前的设计理念有很多问题，在我工作空闲之余会逐渐进行重构，暂时仅做定期依赖结构更新。
+这个项目已被弃用，不再维护，请不要再使用，欢迎了解全新的 [KavaRef](#kavaref) 项目。
 
 ### [android-app-template](https://github.com/BetterAndroid/android-app-template)
 

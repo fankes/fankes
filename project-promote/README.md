@@ -116,19 +116,21 @@ Do you want to quickly have your own Xposed module? You only need to have basic 
 language. Come and try `YukiHookAPI`,
 This is an efficient Hook API and Xposed module solution specially built for you to help make your development easier!
 
-[Click here to view](https://github.com/fankes/YukiHookAPI)
+[Click here to view](https://github.com/HighCapable/YukiHookAPI)
 
-### YukiReflection
+### KavaRef
 
-An efficient Reflection API for the Java and Android platform built in Kotlin.
+A modernizing Java Reflection with Kotlin.
 
 **Recommendation** ⭐⭐⭐⭐⭐
 
-Are you using Kotlin tired of Java’s cumbersome and unchangeable reflection API? Come and try `YukiReflection`.
-It is an efficient Java reflection API implemented in Kotlin that is being used in `YukiHookAPI` and can be used in any of your Java and Android
+Are you using Kotlin tired of Java’s cumbersome and unchangeable reflection API? Come and try `KavaRef`.
+It is an efficient Java reflection API implemented in Kotlin that is being used in `KavaRef` and can be used in any of your Java and Android
 projects!
 
-[Click here to view](https://github.com/fankes/YukiReflection)
+Looking for `YukiReflection`? It has been deprecated due to design concepts and black box issues. Let's try `KavaRef` now!
+
+[Click here to view](https://github.com/HighCapable/KavaRef)
 
 ### android-app-template
 

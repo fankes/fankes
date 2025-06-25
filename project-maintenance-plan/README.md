@@ -98,9 +98,9 @@ Some issues remain unresolved. Maintenance will resume when new ideas emerge and
 ![GitHub last commit (branch)](https://img.shields.io/github/last-commit/HighCapable/YukiHookAPI/master?style=flat-square)
 ![GitHub commit activity (branch)](https://img.shields.io/github/commit-activity/t/HighCapable/YukiHookAPI/master?label=commits%20(master)&color=green&style=flat-square)
 
-![Basic Status](https://img.shields.io/badge/Basic%20Status-Slow%20Maintenance-yellow?style=for-the-badge)
+![Basic Status](https://img.shields.io/badge/Basic%20Status-Normal%20Maintenance-blue?style=for-the-badge)
 
-The project aims to provide a convenient API and module development environment for Xposed developers. Currently, the project is preparing for the 2.0.0 plan. Due to LSPosed being closed-source and the continuous adjustment of the libxposed (new API) plan, and my lack of interest in continuing Xposed module development and being busy with work, only periodic dependency updates are done for now. (If anyone is willing to take over the new design ideas in the 2.0.0 plan, please contact me for collaboration)
+The original intention of this project is to provide a convenient API and module development environment for the majority of Xposed developers. The project is still preparing for the 2.0.0 plan. Since the new version of LSPosed has been in internal testing, and the libxposed (new API) plan continues to be adjusted. In addition, I don’t really want to continue to engage in the development of Xposed modules and my busy work, I will only maintain basic functions and regularly rely on structure updates.(If you have any developers who are willing to discuss the new design ideas in the 2.0.0 plan together in the later stage, you can contact me to cooperate)
 
 ### [YukiHookAPI-ProjectBuilder](https://github.com/HighCapable/YukiHookAPI-ProjectBuilder)
 
@@ -114,7 +114,19 @@ The project aims to provide a convenient API and module development environment 
 
 This project will be migrated to the IDEA plugin and the independent project creation tool will be suspended.
 
-### [YukiReflection](https://github.com/HighCapable/YukiReflection)
+### [KavaRef](https://github.com/HighCapable/KavaRef)
+
+![GitHub Repo stars](https://img.shields.io/github/stars/HighCapable/KavaRef)
+![GitHub Issues or Pull Requests](https://img.shields.io/github/issues/HighCapable/KavaRef?style=flat-square)
+
+![GitHub last commit (branch)](https://img.shields.io/github/last-commit/HighCapable/KavaRef/main?style=flat-square)
+![GitHub commit activity (branch)](https://img.shields.io/github/commit-activity/t/HighCapable/KavaRef/main?label=commits%20(main)&color=green&style=flat-square)
+
+![Basic Status](https://img.shields.io/badge/Basic%20Status-Actively%20Maintained-blue?style=for-the-badge)
+
+New project, business requirements are prioritized for maintenance.
+
+### ~~[YukiReflection](https://github.com/HighCapable/YukiReflection)~~
 
 ![GitHub Repo stars](https://img.shields.io/github/stars/HighCapable/YukiReflection)
 ![GitHub Issues or Pull Requests](https://img.shields.io/github/issues/HighCapable/YukiReflection?style=flat-square)
@@ -122,9 +134,9 @@ This project will be migrated to the IDEA plugin and the independent project cre
 ![GitHub last commit (branch)](https://img.shields.io/github/last-commit/HighCapable/YukiReflection/master?style=flat-square)
 ![GitHub commit activity (branch)](https://img.shields.io/github/commit-activity/t/HighCapable/YukiReflection/master?label=commits%20(master)&color=green&style=flat-square)
 
-![Basic Status](https://img.shields.io/badge/Basic%20Status-Maintenance%20Paused-red?style=for-the-badge)
+![Basic Status](https://img.shields.io/badge/Basic%20Status-Maintenance%20Stopped%20(Deprecated)-red?style=for-the-badge)
 
-This project is being prepared for refactoring. The previous design concepts had many issues. Refactoring will be done gradually during my free time. For now, only periodic dependency updates are done.
+This project has been deprecated and is no longer maintained. Please do not use it again. Welcome to learn about the brand new [KavaRef](#kavaref) project.
 
 ### [android-app-template](https://github.com/BetterAndroid/android-app-template)
 
