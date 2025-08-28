@@ -224,7 +224,7 @@ Currently, QQ and WeChat have already made relevant functional adjustments. The 
 
 ![Basic Status](https://img.shields.io/badge/Basic%20Status-Normal%20Maintenance-blue?style=for-the-badge)
 
-Due to the developer currently lacking a HyperOS 2.0 device, the module is still waiting for adaptation. It is currently maintained by the community. The project is planned to be migrated later.
+Since developers currently lack HyperOS 2.0+ equipment, the module is currently maintained by community power, and the later project is ready for migration.
 
 ### [ColorOSNotifyIcon](https://github.com/fankes/ColorOSNotifyIcon)
 

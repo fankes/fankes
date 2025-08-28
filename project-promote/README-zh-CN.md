@@ -12,20 +12,6 @@
 
 为开发人员提供帮助的依赖库。
 
-### FlexiUI
-
-一个灵活且实用的 UI 组件库。
-
-**推荐指数** ⭐⭐⭐⭐⭐
-
-这是一个灵活且实用的 UI 组件库，名称取自英文单词 "flexible"。
-
-它支持 `Jetpack Compose` 和 `Flutter`，是继官方 Material Desgin 后的另一套完全由自己实现的 UI 框架。
-
-如果你感兴趣，快点击下方的链接看看吧！
-
-[点击这里前往查看](https://github.com/BetterAndroid/FlexiUI)
-
 ### BetterAndroid
 
 为 Android 创建更多有用的工具扩展。
@@ -70,6 +56,20 @@
 它能自动分析你的项目中 `res/values` 目录中声明的国际化字符串并自动生成调用类，只需几步即可完成国际化字符串的调用！
 
 [点击这里前往查看](https://github.com/BetterAndroid/FlexiLocale)
+
+### FlexiUI
+
+一个灵活且实用的 UI 组件库。
+
+**推荐指数** ⭐⭐⭐⭐⭐
+
+这是一个灵活且实用的 UI 组件库，名称取自英文单词 "flexible"。
+
+它支持 `Jetpack Compose` 和 `Flutter`，是继官方 Material Desgin 后的另一套完全由自己实现的 UI 框架。
+
+如果你感兴趣，快点击下方的链接看看吧！
+
+[点击这里前往查看](https://github.com/BetterAndroid/FlexiUI)
 
 ### SweetDependency
 
@@ -260,11 +260,5 @@ ColorOS，此项目同样对接到了 [Android 通知图标规范适配计划](h
 ## 捐赠支持
 
 工作不易，无意外情况这些项目将继续维护下去，提供更多可能，欢迎打赏。
-
-### 本人不是任何 “微 X” 或 “闰二月” 模块的开发者以及任何其它微信定制模块的开发者，且并不认识这些模块的开发者，下方的打赏二维码仅是您为了支持我的上述项目打赏随机金额的一种自愿行为！近期有人反馈有售卖第三方诸如 “定制 v” 的人将我的 TSBattery 模块及各种免费的、付费的模块全部打包进了微信，我的模块首次打开后即会显示此推广弹窗，请注意 TSBattery 是<u>免费且开源的</u>，它不会强制向你收取任何费用解锁任何功能！
-
-### 任何向您收费的定制化一体包均为诈骗行为！他们通过打包免费的模块来倒卖，已经违反开源项目相关协议。
-
-### 请看好你要付款的二维码应该是 “微 X” 或 “闰二月” 模块，请进入对应模块的捐赠界面，不要有钱任性将钱打给我，我无法操作任何直接性质的微信商家退款，因为微信不支持直接退款，且无法回复客户留言，发生损失后果自负！
 
 <img src="https://raw.gitmirror.com/fankes/fankes/main/img-src/payment_code.jpg" width = "500" alt="Payment Code"/>

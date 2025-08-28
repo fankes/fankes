@@ -18,6 +18,8 @@
 
 等待原型设计规范文档，暂缓维护。
 
+### [BetterAndroid](https://github.com/BetterAndroid/BetterAndroid)
+
 ![GitHub Repo stars](https://img.shields.io/github/stars/BetterAndroid/BetterAndroid)
 ![GitHub Issues or Pull Requests](https://img.shields.io/github/issues/BetterAndroid/BetterAndroid?style=flat-square)
 
@@ -25,6 +27,8 @@
 ![GitHub commit activity (branch)](https://img.shields.io/github/commit-activity/t/BetterAndroid/BetterAndroid/main?label=commits%20(main)&color=green&style=flat-square)
 
 ![Basic Status](https://img.shields.io/badge/基本状态-积极维护-blue?style=for-the-badge)
+
+Android 业务需求优先维护。
 
 ### [Hikage](https://github.com/BetterAndroid/Hikage)
 
@@ -220,7 +224,7 @@
 
 ![Basic Status](https://img.shields.io/badge/基本状态-正常维护-blue?style=for-the-badge)
 
-由于开发者目前缺少 HyperOS 2.0 设备，模块依然在等待适配中，目前依靠社区动力进行维护，后期项目准备进行迁移。
+由于开发者目前缺少 HyperOS 2.0+ 设备，模块目前依靠社区动力进行维护，后期项目准备进行迁移。
 
 ### [ColorOSNotifyIcon](https://github.com/fankes/ColorOSNotifyIcon)
 
