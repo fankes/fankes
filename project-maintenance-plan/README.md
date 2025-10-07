@@ -138,6 +138,18 @@ New project, business requirements are prioritized for maintenance.
 
 This project has been deprecated and is no longer maintained. Please do not use it again. Welcome to learn about the brand new [KavaRef](#kavaref) project.
 
+### [moshi-companion](https://github.com/HighCapable/moshi-companion)
+
+![GitHub Repo stars](https://img.shields.io/github/stars/HighCapable/moshi-companion)
+![GitHub Issues or Pull Requests](https://img.shields.io/github/issues/HighCapable/moshi-companion?style=flat-square)
+
+![GitHub last commit (branch)](https://img.shields.io/github/last-commit/HighCapable/moshi-companion/main?style=flat-square)
+![GitHub commit activity (branch)](https://img.shields.io/github/commit-activity/t/HighCapable/moshi-companion/main?label=commits%20(main)&color=green&style=flat-square)
+
+![Basic Status](https://img.shields.io/badge/Basic%20Status-Actively%20Maintained-blue?style=for-the-badge)
+
+New project, business requirements are prioritized for maintenance.
+
 ### [android-app-template](https://github.com/BetterAndroid/android-app-template)
 
 ![GitHub Repo stars](https://img.shields.io/github/stars/BetterAndroid/android-app-template)
