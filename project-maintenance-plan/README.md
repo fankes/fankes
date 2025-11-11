@@ -74,11 +74,23 @@ No new features need to be added for now, only periodic dependency updates.
 ![GitHub last commit (branch)](https://img.shields.io/github/last-commit/HighCapable/SweetDependency/master?style=flat-square)
 ![GitHub commit activity (branch)](https://img.shields.io/github/commit-activity/t/HighCapable/SweetDependency/master?label=commits%20(master)&color=green&style=flat-square)
 
-![Basic Status](https://img.shields.io/badge/Basic%20Status-Slow%20Maintenance-yellow?style=for-the-badge)
+![Basic Status](https://img.shields.io/badge/Basic%20Status-Maintenance%20Suspended-red?style=for-the-badge)
 
-The project was created for dynamic dependency updates and YAML-friendly human-readable configuration files. For now, only periodic dependency updates are done. Due to limited energy and the need to write an IDEA plugin, and the official Version Catalog being very mature, I am not very keen on continuing maintenance.
+The original intention of creating the project was to support dynamic dependency update and YAML-friendly human configuration files. However, the energy was limited, and there were IDEA plug-ins that needed to be written. The official Version Catalog was already very mature and this project was ready to be deprecated.
 
-### [SweetProperty](https://github.com/HighCapable/SweetProperty)
+### [Gropify](https://github.com/HighCapable/Gropify)
+
+![GitHub Repo stars](https://img.shields.io/github/stars/HighCapable/Gropify)
+![GitHub Issues or Pull Requests](https://img.shields.io/github/issues/HighCapable/Gropify?style=flat-square)
+
+![GitHub last commit (branch)](https://img.shields.io/github/last-commit/HighCapable/Gropify/main?style=flat-square)
+![GitHub commit activity (branch)](https://img.shields.io/github/commit-activity/t/HighCapable/Gropify/main?label=commits%20(main)&color=green&style=flat-square)
+
+![Basic Status](https://img.shields.io/badge/Basic%20Status-Actively%20Maintained-blue?style=for-the-badge)
+
+New project, business requirements are prioritized for maintenance.
+
+### ~~[SweetProperty](https://github.com/HighCapable/SweetProperty)~~
 
 ![GitHub Repo stars](https://img.shields.io/github/stars/HighCapable/SweetProperty)
 ![GitHub Issues or Pull Requests](https://img.shields.io/github/issues/HighCapable/SweetProperty?style=flat-square)
@@ -86,9 +98,9 @@ The project was created for dynamic dependency updates and YAML-friendly human-r
 ![GitHub last commit (branch)](https://img.shields.io/github/last-commit/HighCapable/SweetProperty/master?style=flat-square)
 ![GitHub commit activity (branch)](https://img.shields.io/github/commit-activity/t/HighCapable/SweetProperty/master?label=commits%20(master)&color=green&style=flat-square)
 
-![Basic Status](https://img.shields.io/badge/Basic%20Status-Slow%20Maintenance-yellow?style=for-the-badge)
+![Basic Status](https://img.shields.io/badge/Basic%20Status-Maintenance%20Stopped%20(Deprecated)-red?style=for-the-badge)
 
-Some issues remain unresolved. Maintenance will resume when new ideas emerge and work is not busy. For now, only periodic dependency updates are done.
+This project has been deprecated and is no longer maintained. Please do not use it again. Welcome to learn about the brand-new [Gropify](#gropify) project.
 
 ### [YukiHookAPI](https://github.com/HighCapable/YukiHookAPI)
 
@@ -136,7 +148,7 @@ New project, business requirements are prioritized for maintenance.
 
 ![Basic Status](https://img.shields.io/badge/Basic%20Status-Maintenance%20Stopped%20(Deprecated)-red?style=for-the-badge)
 
-This project has been deprecated and is no longer maintained. Please do not use it again. Welcome to learn about the brand new [KavaRef](#kavaref) project.
+This project has been deprecated and is no longer maintained. Please do not use it again. Welcome to learn about the brand-new [KavaRef](#kavaref) project.
 
 ### [moshi-companion](https://github.com/HighCapable/moshi-companion)
 

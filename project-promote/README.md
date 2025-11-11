@@ -80,31 +80,18 @@ If you are interested, click on the link below to take a look!
 
 [Click here to view](https://github.com/BetterAndroid/FlexiUI)
 
-### SweetDependency
+### Gropify
 
-An easy autowire and manage dependencies Gradle plugin.
-
-**Recommendation** ⭐⭐⭐⭐⭐
-
-Do you find Gradle's complex dependency management and dependency update functions very troublesome? Come and use `SweetDependency`, it does not
-require any third-party dependencies, no need to use `buildSrc`, no need to use `includeBuild`,
-One-click integration, plug-and-play, using YAML human-friendly language as the configuration file for dependency management, all dependencies of your
-project can be quickly managed, upgraded with one click, and there are more features waiting for you to discover!
-
-[Click here to view](https://github.com/HighCapable/SweetDependency)
-
-### SweetProperty
-
-An easy get project properties anywhere Gradle plugin.
+A type-safe and modern properties plugin for Gradle.
 
 **Recommendation** ⭐⭐⭐⭐⭐
 
-If your project is using Kotlin DSL as a build script, then this Gradle plugin can definitely help you. Come and use `SweetProperty`, which can
+If your project is using Kotlin DSL as a build script, then this Gradle plugin can definitely help you. Come and use `Gropify`, which can
 automatically analyze `gradle.properties` in your project
 Even the properties key-values in the system environment variables are automatically generated to call the properties key-values used in the build
 script and project, and the corresponding properties key-values content can be directly called using the code!
 
-[Click here to view](https://github.com/HighCapable/SweetProperty)
+[Click here to view](https://github.com/HighCapable/Gropify)
 
 ### YukiHookAPI
 

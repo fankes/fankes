@@ -71,27 +71,16 @@
 
 [点击这里前往查看](https://github.com/BetterAndroid/FlexiUI)
 
-### SweetDependency
+### Gropify
 
-一个轻松自动装配和管理依赖的 Gradle 插件。
-
-**推荐指数** ⭐⭐⭐⭐⭐
-
-Gradle 复杂的依赖管理以及依赖更新功能是否让你感到十分麻烦？快来使用 `SweetDependency`，它无需任何第三方依赖，无需使用 `buildSrc`，无需使用 `includeBuild`，
-一键集成即插即用，使用 YAML 人性化语言作为依赖管理的配置文件，你的项目所有依赖都可以快速管理，一键升级，还有更多功能等你来发现！
-
-[点击这里前往查看](https://github.com/HighCapable/SweetDependency)
-
-### SweetProperty
-
-一个轻松在任意地方获取项目属性的 Gradle 插件。
+一个类型安全且现代化的 Gradle 属性插件。
 
 **推荐指数** ⭐⭐⭐⭐⭐
 
-如果你的项目正在使用 Kotlin DSL 作为构建脚本，那么这一款 Gradle 插件绝对能帮助到你，快来使用 `SweetProperty`，它能自动分析你的项目中 `gradle.properties`
-甚至是系统环境变量中的属性键值， 自动生成对构建脚本以及项目中使用的属性键值调用代码，能够实现使用代码直接调用对应的属性键值内容！
+如果你的项目正在使用 Kotlin DSL 作为构建脚本，那么这一款 Gradle 插件绝对能帮助到你，快来使用 `Gropify`，它能自动分析你的项目中 `gradle.properties`
+甚至是系统环境变量中的属性键值，自动生成对构建脚本以及项目中使用的属性键值调用代码，能够实现使用代码直接调用对应的属性键值内容！
 
-[点击这里前往查看](https://github.com/HighCapable/SweetProperty)
+[点击这里前往查看](https://github.com/HighCapable/Gropify)
 
 ### YukiHookAPI
 
