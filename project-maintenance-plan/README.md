@@ -66,18 +66,6 @@ New project, business requirements are prioritized for maintenance.
 
 No new features need to be added for now, only periodic dependency updates.
 
-### [SweetDependency](https://github.com/HighCapable/SweetDependency)
-
-![GitHub Repo stars](https://img.shields.io/github/stars/HighCapable/SweetDependency)
-![GitHub Issues or Pull Requests](https://img.shields.io/github/issues/HighCapable/SweetDependency?style=flat-square)
-
-![GitHub last commit (branch)](https://img.shields.io/github/last-commit/HighCapable/SweetDependency/master?style=flat-square)
-![GitHub commit activity (branch)](https://img.shields.io/github/commit-activity/t/HighCapable/SweetDependency/master?label=commits%20(master)&color=green&style=flat-square)
-
-![Basic Status](https://img.shields.io/badge/Basic%20Status-Maintenance%20Suspended-red?style=for-the-badge)
-
-The original intention of creating the project was to support dynamic dependency update and YAML-friendly human configuration files. However, the energy was limited, and there were IDEA plug-ins that needed to be written. The official Version Catalog was already very mature and this project was ready to be deprecated.
-
 ### [Gropify](https://github.com/HighCapable/Gropify)
 
 ![GitHub Repo stars](https://img.shields.io/github/stars/HighCapable/Gropify)
@@ -89,6 +77,18 @@ The original intention of creating the project was to support dynamic dependency
 ![Basic Status](https://img.shields.io/badge/Basic%20Status-Actively%20Maintained-blue?style=for-the-badge)
 
 New project, business requirements are prioritized for maintenance.
+
+### ~~[SweetDependency](https://github.com/HighCapable/SweetDependency)~~
+
+![GitHub Repo stars](https://img.shields.io/github/stars/HighCapable/SweetDependency)
+![GitHub Issues or Pull Requests](https://img.shields.io/github/issues/HighCapable/SweetDependency?style=flat-square)
+
+![GitHub last commit (branch)](https://img.shields.io/github/last-commit/HighCapable/SweetDependency/master?style=flat-square)
+![GitHub commit activity (branch)](https://img.shields.io/github/commit-activity/t/HighCapable/SweetDependency/master?label=commits%20(master)&color=green&style=flat-square)
+
+![Basic Status](https://img.shields.io/badge/Basic%20Status-Maintenance%20Stopped-red?style=for-the-badge)
+
+The original intention of creating the project was to support dynamic dependency update and YAML-friendly human configuration files. However, the energy was limited, and there were IDEA plug-ins that needed to be written. The official Version Catalog was already very mature and this project was deprecated.
 
 ### ~~[SweetProperty](https://github.com/HighCapable/SweetProperty)~~
 

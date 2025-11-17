@@ -66,18 +66,6 @@ Android 业务需求优先维护。
 
 暂时没有需要添加的功能，仅做定期依赖结构更新。
 
-### [SweetDependency](https://github.com/HighCapable/SweetDependency)
-
-![GitHub Repo stars](https://img.shields.io/github/stars/HighCapable/SweetDependency)
-![GitHub Issues or Pull Requests](https://img.shields.io/github/issues/HighCapable/SweetDependency?style=flat-square)
-
-![GitHub last commit (branch)](https://img.shields.io/github/last-commit/HighCapable/SweetDependency/master?style=flat-square)
-![GitHub commit activity (branch)](https://img.shields.io/github/commit-activity/t/HighCapable/SweetDependency/master?label=commits%20(master)&color=green&style=flat-square)
-
-![Basic Status](https://img.shields.io/badge/基本状态-暂停维护-red?style=for-the-badge)
-
-创建项目的初衷为动态依赖更新支持和 YAML 友好人类配置文件，精力有限，还有 IDEA 插件需要写，官方的 Version Catalog 已经很成熟，准备放弃维护。
-
 ### [Gropify](https://github.com/HighCapable/Gropify)
 
 ![GitHub Repo stars](https://img.shields.io/github/stars/HighCapable/Gropify)
@@ -89,6 +77,18 @@ Android 业务需求优先维护。
 ![Basic Status](https://img.shields.io/badge/基本状态-积极维护-blue?style=for-the-badge)
 
 新项目，业务需求优先维护。
+
+### ~~[SweetDependency](https://github.com/HighCapable/SweetDependency)~~
+
+![GitHub Repo stars](https://img.shields.io/github/stars/HighCapable/SweetDependency)
+![GitHub Issues or Pull Requests](https://img.shields.io/github/issues/HighCapable/SweetDependency?style=flat-square)
+
+![GitHub last commit (branch)](https://img.shields.io/github/last-commit/HighCapable/SweetDependency/master?style=flat-square)
+![GitHub commit activity (branch)](https://img.shields.io/github/commit-activity/t/HighCapable/SweetDependency/master?label=commits%20(master)&color=green&style=flat-square)
+
+![Basic Status](https://img.shields.io/badge/基本状态-停止维护-red?style=for-the-badge)
+
+创建项目的初衷为动态依赖更新支持和 YAML 友好人类配置文件，精力有限，还有 IDEA 插件需要写，官方的 Version Catalog 已经很成熟，已停止维护。
 
 ### ~~[SweetProperty](https://github.com/HighCapable/SweetProperty)~~
 
