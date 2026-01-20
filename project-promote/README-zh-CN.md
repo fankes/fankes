@@ -106,22 +106,11 @@
 
 [点击这里前往查看](https://github.com/HighCapable/KavaRef)
 
-### moshi-companion
-
-为 [Moshi](https://github.com/square/moshi) 提供更多实用功能的伴侣。
-
-**推荐指数** ⭐⭐⭐⭐⭐
-
-如果你正在使用 Moshi 进行 JSON 解析并不希望 `moshi-kotlin-codegen` 的默认混淆规则保留类名，那么它能够在 Android 项目启用 R8 后，不再依赖于
-`Class.forName` 寻找 `moshi-kotlin-codegen` 生成的适配器类，从而实现对实体类的名称、字段的完全混淆，提升代码安全性和降低 APK 体积。
-
-[点击这里前往查看](https://github.com/HighCapable/moshi-companion)
-
 ### android-app-template
 
 这是一个快速创建基础 Android 项目的模版。
 
-**推荐指数** ⭐⭐⭐⭐
+**推荐指数** ⭐⭐⭐
 
 你可以使用这个模版项目来快速创建一个干净、简洁的标准 Android 项目。
 
@@ -131,7 +120,7 @@
 
 这是一个快速创建基础 Android 项目的模版 (Jetpack Compose 版本)。
 
-**推荐指数** ⭐⭐⭐⭐
+**推荐指数** ⭐⭐⭐
 
 这是一个使用 Jetpack Compose 构建的现代化 Android 项目模版，你可以使用这个模版项目来快速创建一个干净、简洁的标准 Android 项目。
 
@@ -141,7 +130,7 @@
 
 这是一个快速生成 Android、iOS、Desktop (JVM) 的 Jetpack Compose 多平台项目模版。
 
-**推荐指数** ⭐⭐⭐⭐
+**推荐指数** ⭐⭐⭐
 
 你可以使用这个模版项目来快速创建一个 Compose 多平台项目，让你的开发变得更轻松！
 

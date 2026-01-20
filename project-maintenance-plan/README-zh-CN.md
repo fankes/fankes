@@ -150,7 +150,7 @@ Android 业务需求优先维护。
 
 这个项目已被弃用，不再维护，请不要再使用，欢迎了解全新的 [KavaRef](#kavaref) 项目。
 
-### [moshi-companion](https://github.com/HighCapable/moshi-companion)
+### ~~[moshi-companion](https://github.com/HighCapable/moshi-companion)~~
 
 ![GitHub Repo stars](https://img.shields.io/github/stars/HighCapable/moshi-companion)
 ![GitHub Issues or Pull Requests](https://img.shields.io/github/issues/HighCapable/moshi-companion?style=flat-square)
@@ -158,9 +158,9 @@ Android 业务需求优先维护。
 ![GitHub last commit (branch)](https://img.shields.io/github/last-commit/HighCapable/moshi-companion/main?style=flat-square)
 ![GitHub commit activity (branch)](https://img.shields.io/github/commit-activity/t/HighCapable/moshi-companion/main?label=commits%20(main)&color=green&style=flat-square)
 
-![Basic Status](https://img.shields.io/badge/基本状态-积极维护-blue?style=for-the-badge)
+![Basic Status](https://img.shields.io/badge/基本状态-停止维护%20(已弃用)-red?style=for-the-badge)
 
-新项目，业务需求优先维护。
+这个项目已被弃用，不再维护，请不要再使用。
 
 ### [android-app-template](https://github.com/BetterAndroid/android-app-template)
 
