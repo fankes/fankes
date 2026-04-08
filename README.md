@@ -1,4 +1,4 @@
-<img width="50%" align="right" src="https://github-readme-stats.tuhidulhossain.com/api/stats?username=fankes" />
+<img width="50%" align="right" src="https://github-readme-stats-one-bice.vercel.app/api?username=fankes&show_icons=true&role=OWNER,ORGANIZATION_MEMBER" />
 
 ### About Me
 
