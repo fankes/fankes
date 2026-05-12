@@ -106,36 +106,6 @@
 
 [点击这里前往查看](https://github.com/HighCapable/KavaRef)
 
-### android-app-template
-
-这是一个快速创建基础 Android 项目的模版。
-
-**推荐指数** ⭐⭐⭐
-
-你可以使用这个模版项目来快速创建一个干净、简洁的标准 Android 项目。
-
-[点击这里前往查看](https://github.com/BetterAndroid/android-app-template)
-
-### android-compose-app-template
-
-这是一个快速创建基础 Android 项目的模版 (Jetpack Compose 版本)。
-
-**推荐指数** ⭐⭐⭐
-
-这是一个使用 Jetpack Compose 构建的现代化 Android 项目模版，你可以使用这个模版项目来快速创建一个干净、简洁的标准 Android 项目。
-
-[点击这里前往查看](https://github.com/BetterAndroid/android-compose-app-template)
-
-### compose-multiplatform-template
-
-这是一个快速生成 Android、iOS、Desktop (JVM) 的 Jetpack Compose 多平台项目模版。
-
-**推荐指数** ⭐⭐⭐
-
-你可以使用这个模版项目来快速创建一个 Compose 多平台项目，让你的开发变得更轻松！
-
-[点击这里前往查看](https://github.com/BetterAndroid/compose-multiplatform-template)
-
 ### maven-repository-template
 
 这是一个使用 GitHub 管理依赖的简单 Maven 存储库。
@@ -149,6 +119,16 @@
 ## 软件相关
 
 面向 Android、iOS 或 PC 用户群体的一些软件项目。
+
+### Adbrowser
+
+一个由 ADB 提供支持的现代跨平台 Android 文件管理器。
+
+**推荐指数** ⭐⭐⭐⭐⭐
+
+Adbrowser 是一个由 ADB 提供支持的现代跨平台 Android 文件管理器，能够让你在 Windows、macOS、Linux 上轻松地管理你的 Android 设备中的文件。
+
+[点击这里前往查看](https://github.com/BetterAndroid/Adbrowser)
 
 ### 轻享阅
 

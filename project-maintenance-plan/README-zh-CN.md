@@ -2,7 +2,7 @@
 
 此文档将展示目前我个人正在维护的项目及开源项目的计划。
 
-本人正在参与其他公司项目的维护，可能不再有充裕的时间维护开源项目。
+工作时间：看我喜欢，经常在凌晨工作，可能会不定期更新。
 
 ## 开发者相关
 
@@ -64,7 +64,7 @@ Android 业务需求优先维护。
 
 ![Basic Status](https://img.shields.io/badge/基本状态-缓慢维护-yellow?style=for-the-badge)
 
-暂时没有需要添加的功能，仅做定期依赖结构更新。
+后期准备整体改名重构，仅做定期依赖结构更新。
 
 ### [Gropify](https://github.com/HighCapable/Gropify)
 
@@ -86,9 +86,9 @@ Android 业务需求优先维护。
 ![GitHub last commit (branch)](https://img.shields.io/github/last-commit/HighCapable/SweetDependency/master?style=flat-square)
 ![GitHub commit activity (branch)](https://img.shields.io/github/commit-activity/t/HighCapable/SweetDependency/master?label=commits%20(master)&color=green&style=flat-square)
 
-![Basic Status](https://img.shields.io/badge/基本状态-停止维护-red?style=for-the-badge)
+![Basic Status](https://img.shields.io/badge/基本状态-停止维护%20(已弃用)-red?style=for-the-badge)
 
-创建项目的初衷为动态依赖更新支持和 YAML 友好人类配置文件，精力有限，还有 IDEA 插件需要写，官方的 Version Catalog 已经很成熟，已停止维护。
+创建项目的初衷为动态依赖更新支持和 YAML 友好人类配置文件，精力有限，还有 IDEA 插件需要写，官方的 Version Catalog 已经很成熟，已被弃用，不再维护。
 
 ### ~~[SweetProperty](https://github.com/HighCapable/SweetProperty)~~
 
@@ -112,7 +112,11 @@ Android 业务需求优先维护。
 
 ![Basic Status](https://img.shields.io/badge/基本状态-正常维护-blue?style=for-the-badge)
 
-这个项目的初衷是为广大 Xposed 开发者提供一个便捷的 API 和模块开发环境搭建方式，现在项目依然正在准备 2.0.0 计划，由于 LSPosed 新版本一直在内测状态，且 libxposed (新 API) 计划持续调整，加上本人不是很想继续涉猎 Xposed 模块的开发以及自身工作繁忙，暂时仅做基本功能维护和定期依赖结构更新。(后期如果有愿意一起讨论 2.0.0 计划中新设计思路的开发者，可以联系我合作)
+这个项目的初衷是为广大 Xposed 开发者提供一个便捷的 API 和模块开发环境搭建方式。
+
+现在项目正在准备 2.0.0 计划，并根据开发者自身时间适时开始。
+
+说句实在话，本人不是很想继续涉猎 Xposed 模块的开发，暂时仅做基本功能维护和定期依赖结构更新。(后期如果有愿意一起讨论 2.0.0 计划中新设计思路的开发者，可以联系我合作)
 
 ### [YukiHookAPI-ProjectBuilder](https://github.com/HighCapable/YukiHookAPI-ProjectBuilder)
 
@@ -162,7 +166,7 @@ Android 业务需求优先维护。
 
 这个项目已被弃用，不再维护，请不要再使用。
 
-### [android-app-template](https://github.com/BetterAndroid/android-app-template)
+### ~~[android-app-template](https://github.com/BetterAndroid/android-app-template)~~
 
 ![GitHub Repo stars](https://img.shields.io/github/stars/BetterAndroid/android-app-template)
 ![GitHub Issues or Pull Requests](https://img.shields.io/github/issues/BetterAndroid/android-app-template?style=flat-square)
@@ -170,11 +174,11 @@ Android 业务需求优先维护。
 ![GitHub last commit (branch)](https://img.shields.io/github/last-commit/BetterAndroid/android-app-template/main?style=flat-square)
 ![GitHub commit activity (branch)](https://img.shields.io/github/commit-activity/t/BetterAndroid/android-app-template/main?label=commits%20(main)&color=green&style=flat-square)
 
-![Basic Status](https://img.shields.io/badge/基本状态-缓慢维护-yellow?style=for-the-badge)
+![Basic Status](https://img.shields.io/badge/基本状态-停止维护%20(已弃用)-red?style=for-the-badge)
 
-这是个 Android 项目模版，暂时没有需要添加的功能。
+这个项目已被弃用，不再维护，请不要再使用。
 
-### [android-compose-app-template](https://github.com/BetterAndroid/android-compose-app-template)
+### ~~[android-compose-app-template](https://github.com/BetterAndroid/android-compose-app-template)~~
 
 ![GitHub Repo stars](https://img.shields.io/github/stars/BetterAndroid/android-compose-app-template)
 ![GitHub Issues or Pull Requests](https://img.shields.io/github/issues/BetterAndroid/android-compose-app-template?style=flat-square)
@@ -182,11 +186,11 @@ Android 业务需求优先维护。
 ![GitHub last commit (branch)](https://img.shields.io/github/last-commit/BetterAndroid/android-compose-app-template/main?style=flat-square)
 ![GitHub commit activity (branch)](https://img.shields.io/github/commit-activity/t/BetterAndroid/android-compose-app-template/main?label=commits%20(main)&color=green&style=flat-square)
 
-![Basic Status](https://img.shields.io/badge/基本状态-缓慢维护-yellow?style=for-the-badge)
+![Basic Status](https://img.shields.io/badge/基本状态-停止维护%20(已弃用)-red?style=for-the-badge)
 
-这是个 Jetpack Compose Android 项目模版，暂时没有需要添加的功能。
+这个项目已被弃用，不再维护，请不要再使用。
 
-### [compose-multiplatform-template](https://github.com/BetterAndroid/compose-multiplatform-template)
+### ~~[compose-multiplatform-template](https://github.com/BetterAndroid/compose-multiplatform-template)~~
 
 ![GitHub Repo stars](https://img.shields.io/github/stars/BetterAndroid/compose-multiplatform-template)
 ![GitHub Issues or Pull Requests](https://img.shields.io/github/issues/BetterAndroid/compose-multiplatform-template?style=flat-square)
@@ -194,9 +198,9 @@ Android 业务需求优先维护。
 ![GitHub last commit (branch)](https://img.shields.io/github/last-commit/BetterAndroid/compose-multiplatform-template/main?style=flat-square)
 ![GitHub commit activity (branch)](https://img.shields.io/github/commit-activity/t/BetterAndroid/compose-multiplatform-template/main?label=commits%20(main)&color=green&style=flat-square)
 
-![Basic Status](https://img.shields.io/badge/基本状态-缓慢维护-yellow?style=for-the-badge)
+![Basic Status](https://img.shields.io/badge/基本状态-停止维护%20(已弃用)-red?style=for-the-badge)
 
-这是个 Jetpack Compose 多平台项目模版，暂时没有需要添加的功能。
+这个项目已被弃用，不再维护，请不要再使用。
 
 ### [maven-repository-template](https://github.com/HighCapable/maven-repository-template)
 
@@ -211,6 +215,18 @@ Android 业务需求优先维护。
 这是个使用 GitHub 管理依赖的简单 Maven 存储库模板，直接使用即可，无需继续维护。
 
 ## 软件相关
+
+### [Adbrowser](https://github.com/BetterAndroid/Adbrowser)
+
+![GitHub Repo stars](https://img.shields.io/github/stars/BetterAndroid/Adbrowser)
+![GitHub Issues or Pull Requests](https://img.shields.io/github/issues/BetterAndroid/Adbrowser?style=flat-square)
+
+![GitHub last commit (branch)](https://img.shields.io/github/last-commit/BetterAndroid/Adbrowser/dev?style=flat-square)
+![GitHub commit activity (branch)](https://img.shields.io/github/commit-activity/t/BetterAndroid/Adbrowser/dev?label=commits%20(dev)&color=green&style=flat-square)
+
+![Basic Status](https://img.shields.io/badge/基本状态-积极维护-blue?style=for-the-badge)
+
+新项目，业务需求优先维护。
 
 ### [轻享阅](https://github.com/PureReader)
 

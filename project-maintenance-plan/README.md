@@ -2,7 +2,7 @@
 
 This document will showcase the projects I am currently maintaining and the plans for open-source projects.
 
-I am involved in maintaining projects for other companies, so I may not have enough time to maintain open-source projects.
+Working time: Whenever I like, often working late at night, may be updated irregularly.
 
 ## Developer Related
 
@@ -64,7 +64,7 @@ New project, business requirements are prioritized for maintenance.
 
 ![Basic Status](https://img.shields.io/badge/Basic%20Status-Slow%20Maintenance-yellow?style=for-the-badge)
 
-No new features need to be added for now, only periodic dependency updates.
+Maintenance is planned to be renamed and refactored as a whole later, only periodic dependency structure updates are done for now.
 
 ### [Gropify](https://github.com/HighCapable/Gropify)
 
@@ -86,7 +86,7 @@ New project, business requirements are prioritized for maintenance.
 ![GitHub last commit (branch)](https://img.shields.io/github/last-commit/HighCapable/SweetDependency/master?style=flat-square)
 ![GitHub commit activity (branch)](https://img.shields.io/github/commit-activity/t/HighCapable/SweetDependency/master?label=commits%20(master)&color=green&style=flat-square)
 
-![Basic Status](https://img.shields.io/badge/Basic%20Status-Maintenance%20Stopped-red?style=for-the-badge)
+![Basic Status](https://img.shields.io/badge/Basic%20Status-Maintenance%20Stopped%20(Deprecated)-red?style=for-the-badge)
 
 The original intention of creating the project was to support dynamic dependency update and YAML-friendly human configuration files. However, the energy was limited, and there were IDEA plug-ins that needed to be written. The official Version Catalog was already very mature and this project was deprecated.
 
@@ -112,7 +112,13 @@ This project has been deprecated and is no longer maintained. Please do not use 
 
 ![Basic Status](https://img.shields.io/badge/Basic%20Status-Normal%20Maintenance-blue?style=for-the-badge)
 
-The original intention of this project is to provide a convenient API and module development environment for the majority of Xposed developers. The project is still preparing for the 2.0.0 plan. Since the new version of LSPosed has been in internal testing, and the libxposed (new API) plan continues to be adjusted. In addition, I don’t really want to continue to engage in the development of Xposed modules and my busy work, I will only maintain basic functions and regularly rely on structure updates.(If you have any developers who are willing to discuss the new design ideas in the 2.0.0 plan together in the later stage, you can contact me to cooperate)
+The original intention of this project is to provide a convenient API and module development environment for the majority of Xposed developers.
+
+Now the project is preparing for the 2.0.0 plan and will start according to the developer's own time.
+
+To be honest, I am not very interested in continuing to delve into the development of Xposed modules,
+so I will only do basic function maintenance and periodic dependency structure updates for now.
+(If there are developers who are willing to discuss the new design ideas in the 2.0.0 plan together later, you can contact me for cooperation)
 
 ### [YukiHookAPI-ProjectBuilder](https://github.com/HighCapable/YukiHookAPI-ProjectBuilder)
 
@@ -162,7 +168,7 @@ This project has been deprecated and is no longer maintained. Please do not use 
 
 This project has been deprecated and is no longer maintained. Please do not use it again.
 
-### [android-app-template](https://github.com/BetterAndroid/android-app-template)
+### ~~[android-app-template](https://github.com/BetterAndroid/android-app-template)~~
 
 ![GitHub Repo stars](https://img.shields.io/github/stars/BetterAndroid/android-app-template)
 ![GitHub Issues or Pull Requests](https://img.shields.io/github/issues/BetterAndroid/android-app-template?style=flat-square)
@@ -170,11 +176,11 @@ This project has been deprecated and is no longer maintained. Please do not use 
 ![GitHub last commit (branch)](https://img.shields.io/github/last-commit/BetterAndroid/android-app-template/main?style=flat-square)
 ![GitHub commit activity (branch)](https://img.shields.io/github/commit-activity/t/BetterAndroid/android-app-template/main?label=commits%20(main)&color=green&style=flat-square)
 
-![Basic Status](https://img.shields.io/badge/Basic%20Status-Slow%20Maintenance-yellow?style=for-the-badge)
+![Basic Status](https://img.shields.io/badge/Basic%20Status-Maintenance%20Stopped%20(Deprecated)-red?style=for-the-badge)
 
-This is an Android project template. No new features need to be added for now.
+This project has been deprecated and is no longer maintained. Please do not use it again.
 
-### [android-compose-app-template](https://github.com/BetterAndroid/android-compose-app-template)
+### ~~[android-compose-app-template](https://github.com/BetterAndroid/android-compose-app-template)~~
 
 ![GitHub Repo stars](https://img.shields.io/github/stars/BetterAndroid/android-compose-app-template)
 ![GitHub Issues or Pull Requests](https://img.shields.io/github/issues/BetterAndroid/android-compose-app-template?style=flat-square)
@@ -182,11 +188,11 @@ This is an Android project template. No new features need to be added for now.
 ![GitHub last commit (branch)](https://img.shields.io/github/last-commit/BetterAndroid/android-compose-app-template/main?style=flat-square)
 ![GitHub commit activity (branch)](https://img.shields.io/github/commit-activity/t/BetterAndroid/android-compose-app-template/main?label=commits%20(main)&color=green&style=flat-square)
 
-![Basic Status](https://img.shields.io/badge/Basic%20Status-Slow%20Maintenance-yellow?style=for-the-badge)
+![Basic Status](https://img.shields.io/badge/Basic%20Status-Maintenance%20Stopped%20(Deprecated)-red?style=for-the-badge)
 
-This is a Jetpack Compose Android project template. No new features need to be added for now.
+This project has been deprecated and is no longer maintained. Please do not use it again.
 
-### [compose-multiplatform-template](https://github.com/BetterAndroid/compose-multiplatform-template)
+### ~~[compose-multiplatform-template](https://github.com/BetterAndroid/compose-multiplatform-template)~~
 
 ![GitHub Repo stars](https://img.shields.io/github/stars/BetterAndroid/compose-multiplatform-template)
 ![GitHub Issues or Pull Requests](https://img.shields.io/github/issues/BetterAndroid/compose-multiplatform-template?style=flat-square)
@@ -194,9 +200,9 @@ This is a Jetpack Compose Android project template. No new features need to be a
 ![GitHub last commit (branch)](https://img.shields.io/github/last-commit/BetterAndroid/compose-multiplatform-template/main?style=flat-square)
 ![GitHub commit activity (branch)](https://img.shields.io/github/commit-activity/t/BetterAndroid/compose-multiplatform-template/main?label=commits%20(main)&color=green&style=flat-square)
 
-![Basic Status](https://img.shields.io/badge/Basic%20Status-Slow%20Maintenance-yellow?style=for-the-badge)
+![Basic Status](https://img.shields.io/badge/Basic%20Status-Maintenance%20Stopped%20(Deprecated)-red?style=for-the-badge)
 
-This is a Jetpack Compose multiplatform project template. No new features need to be added for now.
+This project has been deprecated and is no longer maintained. Please do not use it again.
 
 ### [maven-repository-template](https://github.com/HighCapable/maven-repository-template)
 
@@ -211,6 +217,18 @@ This is a Jetpack Compose multiplatform project template. No new features need t
 This is a simple Maven repository template using GitHub to manage dependencies. It can be used directly without further maintenance.
 
 ## Software Related
+
+### [Adbrowser](https://github.com/BetterAndroid/Adbrowser)
+
+![GitHub Repo stars](https://img.shields.io/github/stars/BetterAndroid/Adbrowser)
+![GitHub Issues or Pull Requests](https://img.shields.io/github/issues/BetterAndroid/Adbrowser?style=flat-square)
+
+![GitHub last commit (branch)](https://img.shields.io/github/last-commit/BetterAndroid/Adbrowser/dev?style=flat-square)
+![GitHub commit activity (branch)](https://img.shields.io/github/commit-activity/t/BetterAndroid/Adbrowser/dev?label=commits%20(dev)&color=green&style=flat-square)
+
+![Basic Status](https://img.shields.io/badge/Basic%20Status-Actively%20Maintained-blue?style=for-the-badge)
+
+Business requirements are prioritized for maintenance.
 
 ### [PureReader](https://github.com/PureReader)
 

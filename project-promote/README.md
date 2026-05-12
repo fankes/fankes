@@ -119,38 +119,6 @@ Looking for `YukiReflection`? It has been deprecated due to design concepts and 
 
 [Click here to view](https://github.com/HighCapable/KavaRef)
 
-### android-app-template
-
-This is a template for quickly creating a basic Android project.
-
-**Recommendation** ⭐⭐⭐
-
-You can use this template project to quickly create a clean and concise standard Android project.
-
-[Click here to view](https://github.com/BetterAndroid/android-app-template)
-
-### android-compose-app-template
-
-This is a template for quickly creating a basic Android project (Jetpack Compose Version).
-
-**Recommendation** ⭐⭐⭐
-
-This is a modern Android project template built with Jetpack Compose.
-
-You can use this template project to quickly create a clean, concise standard Android project.
-
-[Click here to view](https://github.com/BetterAndroid/android-compose-app-template)
-
-### compose-multiplatform-template
-
-This is a Jetpack Compose Multiplatform project template that quickly generates Android, iOS, and Desktop (JVM).
-
-**Recommendation** ⭐⭐⭐
-
-You can use this template project to quickly create a Compose multi-platform project, making your development easier!
-
-[Click here to view](https://github.com/BetterAndroid/compose-multiplatform-template)
-
 ### maven-repository-template
 
 This is a simple Maven repository by using GitHub to manage dependencies.
@@ -165,6 +133,16 @@ dependencies directly using GitHub!
 ## Software Related
 
 Some software projects for Android, iOS or PC users.
+
+### Adbrowser
+
+A modern cross-platform Android file manager powered by ADB.
+
+**Recommendation** ⭐⭐⭐⭐⭐
+
+Adbrowser is a modern cross-platform Android file manager powered by ADB that allows you to easily manage files on your Android device on Windows, macOS, and Linux.
+
+[Click here to view](https://github.com/BetterAndroid/Adbrowser)
 
 ### PureReader
 

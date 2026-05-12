@@ -6,13 +6,14 @@
 
 **你好，这里是 fankes (星夜不荟 or 小方，方方🥰)，很高兴你能够关注我 👋**
 
-More than 5 years of experience in Android native development and back-end PHP development, **patients with severe perfection obsessive-compulsive disorder**, has been working hard for a more perfect user experience.
+More than 7 years of experience in Android native development and back-end PHP/SpringBoot development,
+focusing on Android and like to do some amateur projects and solve user and developer pain points, **a heavy perfection obsessive-compulsive disorder patient**, has been working hard for a more perfect user experience.
 
-I am currently learning cross-platform technology, front-end development technology, and back-end SpringBoot, etc.
+I am currently learning and practicing cross-platform technology, front-end development technology, private cloud, and DevOps, etc.
 
-拥有 5 年以上 Android 原生开发经验，兼后端 PHP 开发，**重度完美强迫症患者**，一直在为更完美的用户体验做努力。
+拥有 7 年以上 Android 原生开发经验，主攻 Android，喜欢做点业余和解决用户、开发者痛点的项目，兼后端 PHP/SpringBoot 开发，**重度完美强迫症患者**，一直在为更完美的用户体验做努力。
 
-我目前正在学习跨平台技术、前端开发技术以及后端 SpringBoot 等。
+我目前正在学习和实践跨平台技术、前端开发技术、私有云和 DevOps 等等。
 
 ### Specialties
 
@@ -35,9 +36,17 @@ I am currently learning cross-platform technology, front-end development technol
 
 [Click here to see my blog / 点击这里查看我的 Blog](https://blog.fankes.com)
 
+May update something irregularly :)
+
+可能会不定期更新点什么 :)
+
 ### Gitea (Free)
 
 [Click here to see my gitea / 点击这里查看我的 Gitea](https://gitea.fankes.com)
+
+Only supports GitHub authorized login, can be used as a stable site for long-term use, as long as I am still here :)
+
+仅支持 GitHub 授权登录，可以作为稳定站点长期使用，只要我还在 :)
 
 ### My Organizations
   
