@@ -46,18 +46,7 @@
 
 [点击这里前往查看](https://github.com/BetterAndroid/PanguText)
 
-### FlexiLocale
-
-一个自动为 Android 项目生成国际化字符串调用的 Gradle 插件。
-
-**推荐指数** ⭐⭐⭐⭐⭐
-
-如果你厌倦了 Android 开发中 `context.getString(R.string.xxx)` 超级麻烦的国际化字符串适配，那么这一款 Gradle 插件绝对能帮助到你，快来使用 `FlexiLocale`，
-它能自动分析你的项目中 `res/values` 目录中声明的国际化字符串并自动生成调用类，只需几步即可完成国际化字符串的调用！
-
-[点击这里前往查看](https://github.com/BetterAndroid/FlexiLocale)
-
-### FlexiUI
+### Flexi UI
 
 一个灵活且实用的 UI 组件库。
 

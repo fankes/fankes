@@ -53,20 +53,7 @@ This is a typographic solution for mobile apps that provides optimal alignment f
 
 [Click here to view](https://github.com/BetterAndroid/PanguText)
 
-### FlexiLocale
-
-An easy generation Android i18ns string call Gradle plugin.
-
-**Recommendation** ⭐⭐⭐⭐⭐
-
-If you are tired of the super troublesome i18ns string adaptation of `context.getString(R.string.xxx)` in Android development, then this Gradle plugin
-can definitely help you, come and use `FlexiLocale`,
-it can automatically analyze the i18ns string declared in the `res/values` directory in your project and automatically generate the
-calling class, it only takes a few steps to complete the calling of the i18ns string!
-
-[Click here to view](https://github.com/BetterAndroid/FlexiLocale)
-
-### FlexiUI
+### Flexi UI
 
 A flexible and useful UI component library.
 

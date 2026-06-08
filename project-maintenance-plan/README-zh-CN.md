@@ -6,7 +6,7 @@
 
 ## 开发者相关
 
-### [FlexiUI](https://github.com/BetterAndroid/FlexiUI)
+### [Flexi UI](https://github.com/BetterAndroid/FlexiUI)
 
 ![GitHub Repo stars](https://img.shields.io/github/stars/BetterAndroid/FlexiUI)
 ![GitHub Issues or Pull Requests](https://img.shields.io/github/issues/BetterAndroid/FlexiUI?style=flat-square)
@@ -62,9 +62,9 @@ Android 业务需求优先维护。
 ![GitHub last commit (branch)](https://img.shields.io/github/last-commit/BetterAndroid/FlexiLocale/master?style=flat-square)
 ![GitHub commit activity (branch)](https://img.shields.io/github/commit-activity/t/BetterAndroid/FlexiLocale/master?label=commits%20(master)&color=green&style=flat-square)
 
-![Basic Status](https://img.shields.io/badge/基本状态-缓慢维护-yellow?style=for-the-badge)
+![Basic Status](https://img.shields.io/badge/基本状态-停止维护-red?style=for-the-badge)
 
-后期准备整体改名重构，仅做定期依赖结构更新。
+后期准备整体改名重构，目前已停止维护。
 
 ### [Gropify](https://github.com/HighCapable/Gropify)
 

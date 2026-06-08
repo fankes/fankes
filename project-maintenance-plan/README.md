@@ -6,7 +6,7 @@ Working time: Whenever I like, often working late at night, may be updated irreg
 
 ## Developer Related
 
-### [FlexiUI](https://github.com/BetterAndroid/FlexiUI)
+### [Flexi UI](https://github.com/BetterAndroid/FlexiUI)
 
 ![GitHub Repo stars](https://img.shields.io/github/stars/BetterAndroid/FlexiUI)
 ![GitHub Issues or Pull Requests](https://img.shields.io/github/issues/BetterAndroid/FlexiUI?style=flat-square)
@@ -62,9 +62,9 @@ New project, business requirements are prioritized for maintenance.
 ![GitHub last commit (branch)](https://img.shields.io/github/last-commit/BetterAndroid/FlexiLocale/master?style=flat-square)
 ![GitHub commit activity (branch)](https://img.shields.io/github/commit-activity/t/BetterAndroid/FlexiLocale/master?label=commits%20(master)&color=green&style=flat-square)
 
-![Basic Status](https://img.shields.io/badge/Basic%20Status-Slow%20Maintenance-yellow?style=for-the-badge)
+![Basic Status](https://img.shields.io/badge/Basic%20Status-Stopped%20Maintenance-red?style=for-the-badge)
 
-Maintenance is planned to be renamed and refactored as a whole later, only periodic dependency structure updates are done for now.
+Maintenance is planned to be renamed and refactored as a whole later, currently stopped maintenance.
 
 ### [Gropify](https://github.com/HighCapable/Gropify)
 
