@@ -24,11 +24,11 @@
 
 ### Hikage
 
-一个 Android 响应式 UI 构建工具。
+一个由 Kotlin DSL 驱动的 Android View 实时运行时框架。
 
 **推荐指数** ⭐⭐⭐⭐⭐
 
-这是一个 Android 响应式 UI 构建工具，它的设计聚焦于 **实时代码构建 UI**。
+这是一个由 Kotlin DSL 驱动的 Android View 运行时框架，它的设计聚焦于 **实时代码构建 UI**。
 
 如果你厌倦了一成不变的 XML 布局，同时又不想学习或在有限制的环境中使用 Jetpack Compose，那么就来试试 Hikage 吧，你可以 100% 使用 Kotlin DSL 进行布局，并且能使用所有 Android 原生组件。
 

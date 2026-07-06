@@ -31,11 +31,11 @@ This is an efficient functional extension dependency library for Android develop
 
 ### Hikage
 
-An Android responsive UI building tool.
+A real-time Android View runtime powered by Kotlin DSL.
 
 **Recommendation** ⭐⭐⭐⭐⭐
 
-This is an Android responsive UI build tool designed to focus on **Real-time code building UI**.
+This is an Android View runtime powered by Kotlin DSL, designed around **real-time code-based UI construction**.
 
 If you're tired of unchanging XML layouts and don't want to learn or use Jetpack Compose in a restricted environment, then try Hikage, you can use 100% Kotlin DSL for layouts and use all Android native components.
 
