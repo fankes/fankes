@@ -71,6 +71,12 @@ Only supports GitHub authorized login, can be used as a stable site for long-ter
 
 [点击这里查看我正在开发的项目维护计划](https://github.com/fankes/fankes/blob/main/project-maintenance-plan/README-zh-CN.md)
 
+### Support Me
+
+![image](assets/aifadian.svg)
+
+点击前往我的 [爱发电](https://afdian.com/a/fankes) 主页支持我。
+
 ### Contacts
 
 My fans & developers communication community
