@@ -204,6 +204,12 @@ ColorOS，此项目同样对接到了 [Android 通知图标规范适配计划](h
 
 [点击这里前往查看](https://github.com/fankes/AndroidNotifyIconAdapt)
 
+## 捐赠支持
+
+![image](../assets/aifadian.svg)
+
+点击前往我的 [爱发电](https://afdian.com/a/fankes) 主页支持我。
+
 ## 联系方式
 
 - [Telegram 频道](https://t.me/XiaofangDaily)
