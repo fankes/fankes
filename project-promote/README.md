@@ -192,14 +192,18 @@ computer, and clearly display the complete error log.
 
 Some more of my open source projects uncategorized.
 
-### AndroidNotifyIconAdapt
+### ANIP (android-notification-icon-project)
 
-**NOTE** Chinese ONLY for now (no I18n)
+Provides standardized monochrome icon resources for apps and vendor systems that do not conform to the Android standard notification design.
 
-This is an online rules platform that adapts native notification icons and standard icon
-repairs for non-standard Android apps and manufacturers in mainland China.
+**Recommendation** ⭐⭐⭐⭐⭐
 
-[Click here to view](https://github.com/fankes/AndroidNotifyIconAdapt)
+As the Android app ecosystem continues to deteriorate, more and more vendors no longer make a deliberate effort to adapt their apps to Android’s native notification icons. Even when they do, ROM vendors often heavily modify them.
+As a result, native or near-native Android notification icons may appear as black or white blocks, which severely impacts the user experience.
+
+This repository depends on your contributions and suggestions. You’re very welcome to contribute to app notification icon adaptation 👏🏻
+
+[Click here to view](https://github.com/BetterAndroid/android-notification-icon-project)
 
 ## Contacts
 

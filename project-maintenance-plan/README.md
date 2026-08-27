@@ -294,14 +294,14 @@ The project currently has no major changes. Some features are planned to be refa
 
 ## More Projects
 
-### [AndroidNotifyIconAdapt](https://github.com/fankes/AndroidNotifyIconAdapt)
+### [android-notification-icon-project](https://github.com/BetterAndroid/android-notification-icon-project)
 
-![GitHub Repo stars](https://img.shields.io/github/stars/fankes/AndroidNotifyIconAdapt)
-![GitHub Issues or Pull Requests](https://img.shields.io/github/issues/fankes/AndroidNotifyIconAdapt?style=flat-square)
+![GitHub Repo stars](https://img.shields.io/github/stars/BetterAndroid/android-notification-icon-project)
+![GitHub Issues or Pull Requests](https://img.shields.io/github/issues/BetterAndroid/android-notification-icon-project?style=flat-square)
 
-![GitHub last commit (branch)](https://img.shields.io/github/last-commit/fankes/AndroidNotifyIconAdapt/main?style=flat-square)
-![GitHub commit activity (branch)](https://img.shields.io/github/commit-activity/t/fankes/AndroidNotifyIconAdapt/main?label=commits%20(main)&color=green&style=flat-square)
+![GitHub last commit (branch)](https://img.shields.io/github/last-commit/BetterAndroid/android-notification-icon-project/main?style=flat-square)
+![GitHub commit activity (branch)](https://img.shields.io/github/commit-activity/t/BetterAndroid/android-notification-icon-project/main?label=commits%20(main)&color=green&style=flat-square)
 
 ![Basic Status](https://img.shields.io/badge/Basic%20Status-Normal%20Maintenance-blue?style=for-the-badge)
 
-This is a continuously maintained resource repository. The project structure may be adjusted later. It is currently maintained based on community contributions.
+The project has been fully migrated from the original **AndroidNotifyIconAdapt** and is currently maintained based on community support.

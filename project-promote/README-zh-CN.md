@@ -191,18 +191,18 @@ ColorOS，此项目同样对接到了 [Android 通知图标规范适配计划](h
 
 一些未分类的更多我的开源项目。
 
-### AndroidNotifyIconAdapt
+### ANIP (android-notification-icon-project)
 
-这是一个在线规则平台，为国内 Android 不规范的 APP 和厂商适配原生通知图标与规范图标修复。
+为不符合 Android 原生通知设计的应用与厂商系统提供规范的单色图标资源。
 
 **推荐指数** ⭐⭐⭐⭐⭐
 
-随着国内 Android 应用生态的日渐恶化，越来越多地厂商不会刻意去为 Android 适配原生的通知图标，即使是适配了也会被 ROM 厂商魔改掉，
+随着 Android 应用生态的日渐恶化，越来越多的厂商不会刻意去为 Android 适配原生的通知图标，即使是适配了也会被 ROM 厂商魔改掉，
 但这也会造成正在使用原生或类原生的 Android 通知图标出现黑块或者白块，严重影响使用体验。
 
-在线规则平台靠的是你们的贡献和建议，欢迎为应用的通知图标适配做出你的贡献👏🏻
+这个存储库靠的是你们的贡献和建议，欢迎为应用的通知图标适配做出你的贡献👏🏻
 
-[点击这里前往查看](https://github.com/fankes/AndroidNotifyIconAdapt)
+[点击这里前往查看](https://github.com/BetterAndroid/android-notification-icon-project)
 
 ## 捐赠支持
 
