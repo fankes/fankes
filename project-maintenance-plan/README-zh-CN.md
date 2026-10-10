@@ -54,7 +54,7 @@ Android 业务需求优先维护。
 
 新项目，业务需求优先维护。
 
-### [FlexiLocale](https://github.com/BetterAndroid/FlexiLocale)
+### ~~[FlexiLocale](https://github.com/BetterAndroid/FlexiLocale)~~
 
 ![GitHub Repo stars](https://img.shields.io/github/stars/BetterAndroid/FlexiLocale)
 ![GitHub Issues or Pull Requests](https://img.shields.io/github/issues/BetterAndroid/FlexiLocale?style=flat-square)
@@ -62,9 +62,9 @@ Android 业务需求优先维护。
 ![GitHub last commit (branch)](https://img.shields.io/github/last-commit/BetterAndroid/FlexiLocale/master?style=flat-square)
 ![GitHub commit activity (branch)](https://img.shields.io/github/commit-activity/t/BetterAndroid/FlexiLocale/master?label=commits%20(master)&color=green&style=flat-square)
 
-![Basic Status](https://img.shields.io/badge/基本状态-停止维护-red?style=for-the-badge)
+![Basic Status](https://img.shields.io/badge/基本状态-停止维护%20(已弃用)-red?style=for-the-badge)
 
-后期准备整体改名重构，目前已停止维护。
+已弃用，不再维护，后期可能会整体改名重构。
 
 ### [Gropify](https://github.com/HighCapable/Gropify)
 
