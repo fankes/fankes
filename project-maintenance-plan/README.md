@@ -62,7 +62,7 @@ New project, business requirements are prioritized for maintenance.
 ![GitHub last commit (branch)](https://img.shields.io/github/last-commit/BetterAndroid/FlexiLocale/master?style=flat-square)
 ![GitHub commit activity (branch)](https://img.shields.io/github/commit-activity/t/BetterAndroid/FlexiLocale/master?label=commits%20(master)&color=green&style=flat-square)
 
-![Basic Status](https://img.shields.io/badge/Basic%20Status-Stopped%20Maintenance%20(Deprecated)-red?style=for-the-badge)
+![Basic Status](https://img.shields.io/badge/Basic%20Status-Maintenance%20Stopped%20(Deprecated)-red?style=for-the-badge)
 
 Deprecated, no longer maintained, may be renamed and refactored as a whole later.
 
