@@ -114,11 +114,7 @@ This project has been deprecated and is no longer maintained. Please do not use 
 
 The original intention of this project is to provide a convenient API and module development environment for the majority of Xposed developers.
 
-Now the project is preparing for the 2.0.0 plan and will start according to the developer's own time.
-
-To be honest, I am not very interested in continuing to delve into the development of Xposed modules,
-so I will only do basic function maintenance and periodic dependency structure updates for now.
-(If there are developers who are willing to discuss the new design ideas in the 2.0.0 plan together later, you can contact me for cooperation)
+Now the project is preparing for the 2.x plan and will start according to the developer's own time.
 
 ### [YukiHookAPI-ProjectBuilder](https://github.com/HighCapable/YukiHookAPI-ProjectBuilder)
 

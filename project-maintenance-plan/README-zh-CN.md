@@ -114,9 +114,7 @@ Android 业务需求优先维护。
 
 这个项目的初衷是为广大 Xposed 开发者提供一个便捷的 API 和模块开发环境搭建方式。
 
-现在项目正在准备 2.0.0 计划，并根据开发者自身时间适时开始。
-
-说句实在话，本人不是很想继续涉猎 Xposed 模块的开发，暂时仅做基本功能维护和定期依赖结构更新。(后期如果有愿意一起讨论 2.0.0 计划中新设计思路的开发者，可以联系我合作)
+现在项目正在准备 2.x 计划，并根据开发者自身时间适时开始。
 
 ### [YukiHookAPI-ProjectBuilder](https://github.com/HighCapable/YukiHookAPI-ProjectBuilder)
 
