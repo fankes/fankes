@@ -41,13 +41,13 @@ Personal Channel & Developer Community | 个人频道 & 开发者交流社区
 [![DeepSeek](https://img.shields.io/badge/-DeepSeek-4D6BFE?style=flat-square&logo=deepseek&logoColor=white)](#)
 [![Gemini](https://img.shields.io/badge/-Gemini-8E75B2?style=flat-square&logo=googlegemini&logoColor=white)](#)
 
-### Organizations
+### My Organizations
   
 | <img src="https://github.com/HighCapable/.github/blob/main/img-src/logo.jpg?raw=true" width = "30" height = "30" alt="LOGO" align="absmiddle"/>&ensp;&thinsp;[HighCapable](https://github.com/HighCapable) | <img src="https://github.com/BetterAndroid/.github/blob/main/img-src/logo.png?raw=true" width = "30" height = "30" alt="LOGO" align="absmiddle"/>&ensp;&thinsp;[BetterAndroid](https://github.com/BetterAndroid) | <img src="https://github.com/PureReader/.github/blob/main/img-src/logo.png?raw=true" width = "30" height = "30" alt="LOGO" align="absmiddle"/>&ensp;&thinsp;[PureReader](https://github.com/PureReader) |
 | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 
 ### My Projects
 
-| [My Project Promote](https://github.com/fankes/fankes/blob/main/project-promote/README.md) | [My Project Plan](https://github.com/fankes/fankes/blob/main/project-maintenance-plan/README.md)    |
-| ------------------------------------------------------------------------------------------ | --------------------------------------------------------------------------------------------------- |
-| [我的项目推荐](https://github.com/fankes/fankes/blob/main/project-promote/README-zh-CN.md) | [我的项目计划](https://github.com/fankes/fankes/blob/main/project-maintenance-plan/README-zh-CN.md) |
+| [My Project Promote](https://github.com/fankes/fankes/blob/main/project-promote/README.md) | [My Project Maintenance Plan](https://github.com/fankes/fankes/blob/main/project-maintenance-plan/README.md) |
+| ------------------------------------------------------------------------------------------ | ------------------------------------------------------------------------------------------------------------ |
+| [我的项目推荐](https://github.com/fankes/fankes/blob/main/project-promote/README-zh-CN.md) | [我的项目维护计划](https://github.com/fankes/fankes/blob/main/project-maintenance-plan/README-zh-CN.md)      |
