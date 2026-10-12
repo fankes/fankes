@@ -5,35 +5,27 @@
 <br clear="all" />
 <br />
 
-**你好，这里是 fankes (星夜不荟 or 小方，方方🥰)，很高兴你能够关注我 👋**
+**你好，这里是 fankes (可以叫我星夜不荟 or 小方、方方)，很高兴你能够关注我 👋**
 
-My fans & developers communication community
+Personal Channel & Developer Community | 个人频道 & 开发者交流社区
 
-旗下粉丝 & 开发者交流社区 (快来应援方方鸭~🥰)
+<a href="https://blog.fankes.com">My Blog</a> •
+<a href="https://gitea.fankes.com">My Gitea</a>
 
 [![Telegram Channel](https://img.shields.io/badge/channel-Telegram-blue.svg?logo=telegram&style=flat-square)](https://t.me/XiaofangDaily)
 [![Telegram](https://img.shields.io/badge/discussion-Telegram-blue.svg?logo=telegram&style=flat-square)](https://t.me/XiaofangInternet)
 [![Telegram](https://img.shields.io/badge/discussion%20dev-Telegram-blue.svg?logo=telegram&style=flat-square)](https://t.me/HighCapable_Dev)
+
 [![QQ](https://img.shields.io/badge/channel-QQ-blue.svg?logo=tencent-qq&logoColor=red&style=flat-square)](https://pd.qq.com/s/44gcy28h)
 [![QQ](https://img.shields.io/badge/discussion-QQ-blue.svg?logo=tencent-qq&logoColor=red&style=flat-square)](https://qm.qq.com/cgi-bin/qm/qr?k=dp2h5YhWiga9WWb_Oh7kSHmx01X8I8ii&jump_from=webapi&authKey=Za5CaFP0lk7+Zgsk2KpoBD7sSaYbeXbsDgFjiWelOeH4VSionpxFJ7V0qQBSqvFM)
 [![QQ](https://img.shields.io/badge/discussion%20dev-QQ-blue.svg?logo=tencent-qq&logoColor=red&style=flat-square)](https://qm.qq.com/cgi-bin/qm/qr?k=Pnsc5RY6N2mBKFjOLPiYldbAbprAU3V7&jump_from=webapi&authKey=X5EsOVzLXt1dRunge8ryTxDRrh9/IiW1Pua75eDLh9RE3KXE+bwXIYF5cWri/9lf)
 
 ### Support Me
 
-![image](assets/aifadian.svg)
+| <img src="assets/aifadian.svg?raw=true" width = "30" height = "30" alt="LOGO"/> | [Afadian (爱发电)](https://afdian.com/a/fankes) |
+| ------------------------------------------------------------------------------- | ----------------------------------------------- |
 
-点击前往我的 [爱发电](https://afdian.com/a/fankes) 主页支持我。
-
-More than 7 years of experience in Android native development and back-end PHP/SpringBoot development,
-focusing on Android and like to do some amateur projects and solve user and developer pain points, **a heavy perfection obsessive-compulsive disorder patient**, has been working hard for a more perfect user experience.
-
-I am currently learning and practicing cross-platform technology, front-end development technology, private cloud, and DevOps, etc.
-
-拥有 7 年以上 Android 原生开发经验，主攻 Android，喜欢做点业余和解决用户、开发者痛点的项目，兼后端 PHP/SpringBoot 开发，**重度完美强迫症患者**，一直在为更完美的用户体验做努力。
-
-我目前正在学习和实践跨平台技术、前端开发技术、私有云和 DevOps 等等。
-
-### Specialties
+### Tech Stack
 
 [![Android+Compose](https://img.shields.io/badge/-Android%20+%20Jetpack%20Compose-3DDC84?style=flat-square&logo=Android&logoColor=white)](#)
 [![Kotlin](https://img.shields.io/badge/-Kotlin-7F52FF?style=flat-square&logo=kotlin&logoColor=white)](#)
@@ -49,41 +41,13 @@ I am currently learning and practicing cross-platform technology, front-end deve
 [![DeepSeek](https://img.shields.io/badge/-DeepSeek-4D6BFE?style=flat-square&logo=deepseek&logoColor=white)](#)
 [![Gemini](https://img.shields.io/badge/-Gemini-8E75B2?style=flat-square&logo=googlegemini&logoColor=white)](#)
 
-### Blog
-
-[Click here to see my blog / 点击这里查看我的 Blog](https://blog.fankes.com)
-
-May update something irregularly :)
-
-可能会不定期更新点什么 :)
-
-### Gitea (Free)
-
-[Click here to see my gitea / 点击这里查看我的 Gitea](https://gitea.fankes.com)
-
-Only supports GitHub authorized login, can be used as a stable site for long-term use, as long as I am still here :)
-
-仅支持 GitHub 授权登录，可以作为稳定站点长期使用，只要我还在 :)
-
-### My Organizations
+### Organizations
   
-| <img src="https://github.com/HighCapable/.github/blob/main/img-src/logo.jpg?raw=true" width = "30" height = "30" alt="LOGO"/> | [HighCapable](https://github.com/HighCapable) |
-| ----------------------------------------------------------------------------------------------------------------------------- | --------------------------------------------- |
-
-| <img src="https://github.com/BetterAndroid/.github/blob/main/img-src/logo.png?raw=true" width = "30" height = "30" alt="LOGO"/> | [BetterAndroid](https://github.com/BetterAndroid) |
-| ------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------- |
-
-| <img src="https://github.com/PureReader/.github/blob/main/img-src/logo.png?raw=true" width = "30" height = "30" alt="LOGO"/> | [PureReader](https://github.com/PureReader) |
-| ---------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------- |
+| <img src="https://github.com/HighCapable/.github/blob/main/img-src/logo.jpg?raw=true" width = "30" height = "30" alt="LOGO" align="absmiddle"/>&ensp;&thinsp;[HighCapable](https://github.com/HighCapable) | <img src="https://github.com/BetterAndroid/.github/blob/main/img-src/logo.png?raw=true" width = "30" height = "30" alt="LOGO" align="absmiddle"/>&ensp;&thinsp;[BetterAndroid](https://github.com/BetterAndroid) | <img src="https://github.com/PureReader/.github/blob/main/img-src/logo.png?raw=true" width = "30" height = "30" alt="LOGO" align="absmiddle"/>&ensp;&thinsp;[PureReader](https://github.com/PureReader) |
+| ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 
 ### My Projects
 
-[Click here to view my recommended projects (developed and maintained)](https://github.com/fankes/fankes/blob/main/project-promote/README.md)
-
-[点击这里查看我推荐的正在开发和维护的项目](https://github.com/fankes/fankes/blob/main/project-promote/README-zh-CN.md)
-
-#### Project Maintenance Plan
-
-[Click here to view my project maintenance plan](https://github.com/fankes/fankes/blob/main/project-maintenance-plan/README.md)
-
-[点击这里查看我正在开发的项目维护计划](https://github.com/fankes/fankes/blob/main/project-maintenance-plan/README-zh-CN.md)
+| [My Project Promote](https://github.com/fankes/fankes/blob/main/project-promote/README.md) | [My Project Plan](https://github.com/fankes/fankes/blob/main/project-maintenance-plan/README.md)    |
+| ------------------------------------------------------------------------------------------ | --------------------------------------------------------------------------------------------------- |
+| [我的项目推荐](https://github.com/fankes/fankes/blob/main/project-promote/README-zh-CN.md) | [我的项目计划](https://github.com/fankes/fankes/blob/main/project-maintenance-plan/README-zh-CN.md) |
