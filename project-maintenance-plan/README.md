@@ -116,7 +116,7 @@ The original intention of this project is to provide a convenient API and module
 
 Now the project is preparing for the 2.x plan and will start according to the developer's own time.
 
-### [YukiHookAPI-ProjectBuilder](https://github.com/HighCapable/YukiHookAPI-ProjectBuilder)
+### ~~[YukiHookAPI-ProjectBuilder](https://github.com/HighCapable/YukiHookAPI-ProjectBuilder)~~
 
 ![GitHub Repo stars](https://img.shields.io/github/stars/HighCapable/YukiHookAPI-ProjectBuilder)
 ![GitHub Issues or Pull Requests](https://img.shields.io/github/issues/HighCapable/YukiHookAPI-ProjectBuilder?style=flat-square)
@@ -124,9 +124,9 @@ Now the project is preparing for the 2.x plan and will start according to the de
 ![GitHub last commit (branch)](https://img.shields.io/github/last-commit/HighCapable/YukiHookAPI-ProjectBuilder/master?style=flat-square)
 ![GitHub commit activity (branch)](https://img.shields.io/github/commit-activity/t/HighCapable/YukiHookAPI-ProjectBuilder/master?label=commits%20(master)&color=green&style=flat-square)
 
-![Basic Status](https://img.shields.io/badge/Basic%20Status-Maintenance%20Suspended-red?style=for-the-badge)
+![Basic Status](https://img.shields.io/badge/Basic%20Status-Maintenance%20Stopped%20(Deprecated)-red?style=for-the-badge)
 
-This project will be migrated to the IDEA plugin and the independent project creation tool will be suspended.
+The original value of this project is gone, so it will no longer be maintained and is deprecated. The plan for the IDE plugin has also been terminated.
 
 ### [KavaRef](https://github.com/HighCapable/KavaRef)
 

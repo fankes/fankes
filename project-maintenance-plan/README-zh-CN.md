@@ -116,7 +116,7 @@ Android 业务需求优先维护。
 
 现在项目正在准备 2.x 计划，并根据开发者自身时间适时开始。
 
-### [YukiHookAPI-ProjectBuilder](https://github.com/HighCapable/YukiHookAPI-ProjectBuilder)
+### ~~[YukiHookAPI-ProjectBuilder](https://github.com/HighCapable/YukiHookAPI-ProjectBuilder)~~
 
 ![GitHub Repo stars](https://img.shields.io/github/stars/HighCapable/YukiHookAPI-ProjectBuilder)
 ![GitHub Issues or Pull Requests](https://img.shields.io/github/issues/HighCapable/YukiHookAPI-ProjectBuilder?style=flat-square)
@@ -124,9 +124,9 @@ Android 业务需求优先维护。
 ![GitHub last commit (branch)](https://img.shields.io/github/last-commit/HighCapable/YukiHookAPI-ProjectBuilder/master?style=flat-square)
 ![GitHub commit activity (branch)](https://img.shields.io/github/commit-activity/t/HighCapable/YukiHookAPI-ProjectBuilder/master?label=commits%20(master)&color=green&style=flat-square)
 
-![Basic Status](https://img.shields.io/badge/基本状态-暂停维护-red?style=for-the-badge)
+![Basic Status](https://img.shields.io/badge/基本状态-停止维护%20(已弃用)-red?style=for-the-badge)
 
-这个项目将会迁移到 IDEA 插件，独立的项目创建工具将暂停维护。
+这个项目的最初价值已经消失，将不再维护并被弃用，IDE 插件的计划也已终止。
 
 ### [KavaRef](https://github.com/HighCapable/KavaRef)
 
