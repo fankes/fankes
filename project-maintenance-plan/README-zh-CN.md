@@ -50,9 +50,9 @@ Android 业务需求优先维护。
 ![GitHub last commit (branch)](https://img.shields.io/github/last-commit/BetterAndroid/PanguText/main?style=flat-square)
 ![GitHub commit activity (branch)](https://img.shields.io/github/commit-activity/t/BetterAndroid/PanguText/main?label=commits%20(main)&color=green&style=flat-square)
 
-![Basic Status](https://img.shields.io/badge/基本状态-积极维护-blue?style=for-the-badge)
+![Basic Status](https://img.shields.io/badge/基本状态-正常维护-blue?style=for-the-badge)
 
-新项目，业务需求优先维护。
+项目目前运行稳定，暂时仅做小幅度更新，Jetpack Compose 相关计划因为成本问题暂未启动。
 
 ### ~~[FlexiLocale](https://github.com/BetterAndroid/FlexiLocale)~~
 
@@ -74,9 +74,9 @@ Android 业务需求优先维护。
 ![GitHub last commit (branch)](https://img.shields.io/github/last-commit/HighCapable/Gropify/main?style=flat-square)
 ![GitHub commit activity (branch)](https://img.shields.io/github/commit-activity/t/HighCapable/Gropify/main?label=commits%20(main)&color=green&style=flat-square)
 
-![Basic Status](https://img.shields.io/badge/基本状态-积极维护-blue?style=for-the-badge)
+![Basic Status](https://img.shields.io/badge/基本状态-正常维护-blue?style=for-the-badge)
 
-新项目，业务需求优先维护。
+项目目前运行稳定，暂时仅做小幅度更新。
 
 ### ~~[SweetDependency](https://github.com/HighCapable/SweetDependency)~~
 
@@ -262,7 +262,7 @@ Android 业务需求优先维护。
 
 ![Basic Status](https://img.shields.io/badge/基本状态-正常维护-blue?style=for-the-badge)
 
-由于开发者目前缺少 HyperOS 2.0+ 设备，模块目前依靠社区动力进行维护，后期项目准备进行迁移。
+由于开发者目前缺少设备样本，模块目前依靠社区动力进行维护，后期项目准备进行迁移。
 
 ### [ColorOSNotifyIcon](https://github.com/fankes/ColorOSNotifyIcon)
 
@@ -272,9 +272,9 @@ Android 业务需求优先维护。
 ![GitHub last commit (branch)](https://img.shields.io/github/last-commit/fankes/ColorOSNotifyIcon/master?style=flat-square)
 ![GitHub commit activity (branch)](https://img.shields.io/github/commit-activity/t/fankes/ColorOSNotifyIcon/master?label=commits%20(master)&color=green&style=flat-square)
 
-![Basic Status](https://img.shields.io/badge/基本状态-暂缓维护-red?style=for-the-badge)
+![Basic Status](https://img.shields.io/badge/基本状态-正常维护-blue?style=for-the-badge)
 
-由于开发者不再使用 ColorOS 且后期项目准备进行迁移，暂缓维护或不再维护。
+由于开发者目前缺少设备样本，模块目前依靠社区动力进行维护，后期项目准备进行迁移。
 
 ### [AppErrorsTracking](https://github.com/KitsunePie/AppErrorsTracking)
 
@@ -284,9 +284,9 @@ Android 业务需求优先维护。
 ![GitHub last commit (branch)](https://img.shields.io/github/last-commit/KitsunePie/AppErrorsTracking/master?style=flat-square)
 ![GitHub commit activity (branch)](https://img.shields.io/github/commit-activity/t/KitsunePie/AppErrorsTracking/master?label=commits%20(master)&color=green&style=flat-square)
 
-![Basic Status](https://img.shields.io/badge/基本状态-缓慢维护-yellow?style=for-the-badge)
+![Basic Status](https://img.shields.io/badge/基本状态-正常维护-blue?style=for-the-badge)
 
-项目目前没有大的改动，后期部分功能准备进行重构，暂时仅做定期依赖结构更新。
+由于架构问题，项目后期会进行整体改名重构，目前仅作定期依赖结构更新和小的功能调整。
 
 ## 更多项目
 

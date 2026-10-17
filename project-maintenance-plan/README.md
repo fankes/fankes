@@ -50,9 +50,9 @@ New project, business requirements are prioritized for maintenance.
 ![GitHub last commit (branch)](https://img.shields.io/github/last-commit/BetterAndroid/PanguText/main?style=flat-square)
 ![GitHub commit activity (branch)](https://img.shields.io/github/commit-activity/t/BetterAndroid/PanguText/main?label=commits%20(main)&color=green&style=flat-square)
 
-![Basic Status](https://img.shields.io/badge/Basic%20Status-Actively%20Maintained-blue?style=for-the-badge)
+![Basic Status](https://img.shields.io/badge/Basic%20Status-Normal%20Maintenance-blue?style=for-the-badge)
 
-New project, business requirements are prioritized for maintenance.
+The project is currently running stably, and only minor updates are made for the time being. Plans related to Jetpack Compose have not been initiated due to cost considerations.
 
 ### ~~[FlexiLocale](https://github.com/BetterAndroid/FlexiLocale)~~
 
@@ -74,9 +74,9 @@ Deprecated, no longer maintained, may be renamed and refactored as a whole later
 ![GitHub last commit (branch)](https://img.shields.io/github/last-commit/HighCapable/Gropify/main?style=flat-square)
 ![GitHub commit activity (branch)](https://img.shields.io/github/commit-activity/t/HighCapable/Gropify/main?label=commits%20(main)&color=green&style=flat-square)
 
-![Basic Status](https://img.shields.io/badge/Basic%20Status-Actively%20Maintained-blue?style=for-the-badge)
+![Basic Status](https://img.shields.io/badge/Basic%20Status-Normal%20Maintenance-blue?style=for-the-badge)
 
-New project, business requirements are prioritized for maintenance.
+The project is currently running stably, and only minor updates are made for the time being.
 
 ### ~~[SweetDependency](https://github.com/HighCapable/SweetDependency)~~
 
@@ -262,7 +262,7 @@ Currently, QQ and WeChat have already made relevant functional adjustments. The 
 
 ![Basic Status](https://img.shields.io/badge/Basic%20Status-Normal%20Maintenance-blue?style=for-the-badge)
 
-Since developers currently lack HyperOS 2.0+ equipment, the module is currently maintained by community power, and the later project is ready for migration.
+Since the developer currently lacks device samples, the module is currently maintained by community power, and the later project is ready for migration.
 
 ### [ColorOSNotifyIcon](https://github.com/fankes/ColorOSNotifyIcon)
 
@@ -272,9 +272,9 @@ Since developers currently lack HyperOS 2.0+ equipment, the module is currently 
 ![GitHub last commit (branch)](https://img.shields.io/github/last-commit/fankes/ColorOSNotifyIcon/master?style=flat-square)
 ![GitHub commit activity (branch)](https://img.shields.io/github/commit-activity/t/fankes/ColorOSNotifyIcon/master?label=commits%20(master)&color=green&style=flat-square)
 
-![Basic Status](https://img.shields.io/badge/Basic%20Status-Maintenance%20Paused-red?style=for-the-badge)
+![Basic Status](https://img.shields.io/badge/Basic%20Status-Normal%20Maintenance-blue?style=for-the-badge)
 
-Due to the developer no longer using ColorOS and the project being planned for migration later, maintenance is paused or may no longer be maintained.
+Since the developer currently lacks device samples, the module is currently maintained by community power, and the later project is ready for migration.
 
 ### [AppErrorsTracking](https://github.com/KitsunePie/AppErrorsTracking)
 
@@ -284,9 +284,9 @@ Due to the developer no longer using ColorOS and the project being planned for m
 ![GitHub last commit (branch)](https://img.shields.io/github/last-commit/KitsunePie/AppErrorsTracking/master?style=flat-square)
 ![GitHub commit activity (branch)](https://img.shields.io/github/commit-activity/t/KitsunePie/AppErrorsTracking/master?label=commits%20(master)&color=green&style=flat-square)
 
-![Basic Status](https://img.shields.io/badge/Basic%20Status-Slow%20Maintenance-yellow?style=for-the-badge)
+![Basic Status](https://img.shields.io/badge/Basic%20Status-Normal%20Maintenance-blue?style=for-the-badge)
 
-The project currently has no major changes. Some features are planned to be refactored later. For now, only periodic dependency updates are done.
+Due to architectural issues, the project is planned for a complete rename and refactor in the future. For now, only periodic dependency updates and minor feature adjustments are being made.
 
 ## More Projects
 
