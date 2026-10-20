@@ -102,19 +102,20 @@ The original intention of creating the project was to support dynamic dependency
 
 This project has been deprecated and is no longer maintained. Please do not use it again. Welcome to learn about the brand-new [Gropify](#gropify) project.
 
-### [YukiHookAPI](https://github.com/HighCapable/YukiHookAPI)
+### [YukiHook](https://github.com/HighCapable/YukiHook)
 
-![GitHub Repo stars](https://img.shields.io/github/stars/HighCapable/YukiHookAPI)
-![GitHub Issues or Pull Requests](https://img.shields.io/github/issues/HighCapable/YukiHookAPI?style=flat-square)
+![GitHub Repo stars](https://img.shields.io/github/stars/HighCapable/YukiHook)
+![GitHub Issues or Pull Requests](https://img.shields.io/github/issues/HighCapable/YukiHook?style=flat-square)
 
-![GitHub last commit (branch)](https://img.shields.io/github/last-commit/HighCapable/YukiHookAPI/master?style=flat-square)
-![GitHub commit activity (branch)](https://img.shields.io/github/commit-activity/t/HighCapable/YukiHookAPI/master?label=commits%20(master)&color=green&style=flat-square)
+![GitHub last commit (branch)](https://img.shields.io/github/last-commit/HighCapable/YukiHook/1.x?style=flat-square)
+![GitHub commit activity (branch)](https://img.shields.io/github/commit-activity/t/HighCapable/YukiHook/1.x?label=commits%20(1.x)&color=green&style=flat-square)
+![GitHub commit activity (branch)](https://img.shields.io/github/commit-activity/t/HighCapable/YukiHook/2.x?label=commits%20(2.x)&color=green&style=flat-square)
 
 ![Basic Status](https://img.shields.io/badge/Basic%20Status-Normal%20Maintenance-blue?style=for-the-badge)
 
 The original intention of this project is to provide a convenient API and module development environment for the majority of Xposed developers.
 
-Now the project is preparing for the 2.x plan and will start according to the developer's own time.
+The project is currently being refactored for 2.x, after which the 1.x branch will enter LTS.
 
 ### ~~[YukiHookAPI-ProjectBuilder](https://github.com/HighCapable/YukiHookAPI-ProjectBuilder)~~
 

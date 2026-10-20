@@ -71,16 +71,16 @@
 
 [点击这里前往查看](https://github.com/HighCapable/Gropify)
 
-### YukiHookAPI
+### YukiHook
 
-一个使用 Kotlin 构建的高效 Hook API 与 Xposed 模块解决方案。
+一个现代化的 Hook API 与 Xposed 模块解决方案。
 
 **推荐指数** ⭐⭐⭐⭐⭐
 
-你想快速拥有一个自己的 Xposed 模块吗，你只需要拥有基础的 Android 开发经验以及掌握基础的 Kotlin 编程语言即可，快来试试 `YukiHookAPI`，
+你想快速拥有一个自己的 Xposed 模块吗，你只需要拥有基础的 Android 开发经验以及掌握基础的 Kotlin 编程语言即可，快来试试 `YukiHook`，
 这是一个专为你打造的高效 Hook API 与 Xposed 模块解决方案，助你的开发变得更轻松！
 
-[点击这里前往查看](https://github.com/HighCapable/YukiHookAPI)
+[点击这里前往查看](https://github.com/HighCapable/YukiHook)
 
 ### KavaRef
 
@@ -89,7 +89,7 @@
 **推荐指数** ⭐⭐⭐⭐⭐
 
 正在使用 Kotlin 的你厌倦了 Java 繁琐而一成不变的反射 API 吗，快来试试 `KavaRef`，
-它是 `YukiHookAPI` 中正在使用的用 Kotlin 实现的高效 Java 反射 API，能在你的任何 Java 和 Android 项目中使用！
+它是 `YukiHook` 中正在使用的用 Kotlin 实现的高效 Java 反射 API，能在你的任何 Java 和 Android 项目中使用！
 
 在找 `YukiReflection` 吗，它因为设计理念和黑盒问题已被弃用，现在就来尝试 `KavaRef` 吧！
 

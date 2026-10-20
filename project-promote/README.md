@@ -80,17 +80,17 @@ script and project, and the corresponding properties key-values content can be d
 
 [Click here to view](https://github.com/HighCapable/Gropify)
 
-### YukiHookAPI
+### YukiHook
 
-An efficient Hook API and Xposed Module solution built in Kotlin.
+A modern hook API and Xposed module solution.
 
 **Recommendation** ⭐⭐⭐⭐⭐
 
 Do you want to quickly have your own Xposed module? You only need to have basic Android development experience and master the basic Kotlin programming
-language. Come and try `YukiHookAPI`,
+language. Come and try `YukiHook`,
 This is an efficient Hook API and Xposed module solution specially built for you to help make your development easier!
 
-[Click here to view](https://github.com/HighCapable/YukiHookAPI)
+[Click here to view](https://github.com/HighCapable/YukiHook)
 
 ### KavaRef
 
@@ -98,9 +98,8 @@ A modernizing Java Reflection with Kotlin.
 
 **Recommendation** ⭐⭐⭐⭐⭐
 
-Are you using Kotlin tired of Java’s cumbersome and unchangeable reflection API? Come and try `KavaRef`.
-It is an efficient Java reflection API implemented in Kotlin that is being used in `KavaRef` and can be used in any of your Java and Android
-projects!
+Are you tired of Java's cumbersome and unchangeable reflection API while using Kotlin? Come and try `KavaRef`,
+It is an efficient Java reflection API implemented in Kotlin that is being used in `YukiHook` and can be used in any of your Java and Android projects!
 
 Looking for `YukiReflection`? It has been deprecated due to design concepts and black box issues. Let's try `KavaRef` now!
 

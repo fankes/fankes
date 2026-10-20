@@ -102,19 +102,20 @@ Android 业务需求优先维护。
 
 这个项目已被弃用，不再维护，请不要再使用，欢迎了解全新的 [Gropify](#gropify) 项目。
 
-### [YukiHookAPI](https://github.com/HighCapable/YukiHookAPI)
+### [YukiHook](https://github.com/HighCapable/YukiHook)
 
-![GitHub Repo stars](https://img.shields.io/github/stars/HighCapable/YukiHookAPI)
-![GitHub Issues or Pull Requests](https://img.shields.io/github/issues/HighCapable/YukiHookAPI?style=flat-square)
+![GitHub Repo stars](https://img.shields.io/github/stars/HighCapable/YukiHook)
+![GitHub Issues or Pull Requests](https://img.shields.io/github/issues/HighCapable/YukiHook?style=flat-square)
 
-![GitHub last commit (branch)](https://img.shields.io/github/last-commit/HighCapable/YukiHookAPI/master?style=flat-square)
-![GitHub commit activity (branch)](https://img.shields.io/github/commit-activity/t/HighCapable/YukiHookAPI/master?label=commits%20(master)&color=green&style=flat-square)
+![GitHub last commit (branch)](https://img.shields.io/github/last-commit/HighCapable/YukiHook/1.x?style=flat-square)
+![GitHub commit activity (branch)](https://img.shields.io/github/commit-activity/t/HighCapable/YukiHook/1.x?label=commits%20(1.x)&color=green&style=flat-square)
+![GitHub commit activity (branch)](https://img.shields.io/github/commit-activity/t/HighCapable/YukiHook/2.x?label=commits%20(2.x)&color=green&style=flat-square)
 
 ![Basic Status](https://img.shields.io/badge/基本状态-正常维护-blue?style=for-the-badge)
 
 这个项目的初衷是为广大 Xposed 开发者提供一个便捷的 API 和模块开发环境搭建方式。
 
-现在项目正在准备 2.x 计划，并根据开发者自身时间适时开始。
+现在项目正在进行 2.x 重构，届时 1.x 分支将进入 LTS。
 
 ### ~~[YukiHookAPI-ProjectBuilder](https://github.com/HighCapable/YukiHookAPI-ProjectBuilder)~~
 
