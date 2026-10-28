@@ -253,6 +253,18 @@ Due to unresolved book copyright issues and market demand positioning and profit
 
 Currently, QQ and WeChat have already made relevant functional adjustments. The initial power consumption issue has been resolved by themselves. Additionally, these apps now support push services, so they no longer need to stay in the background. Now it is just a cyber power-saving module that kills power locks. However, it is still effective for those who prefer older versions. Some issues remain unresolved. Due to being busy with work, only periodic dependency updates are done for now.
 
+### [Sumi](https://github.com/fankes/Sumi)
+
+![GitHub Repo stars](https://img.shields.io/github/stars/fankes/Sumi)
+![GitHub Issues or Pull Requests](https://img.shields.io/github/issues/fankes/Sumi?style=flat-square)
+
+![GitHub last commit (branch)](https://img.shields.io/github/last-commit/fankes/Sumi/main?style=flat-square)
+![GitHub commit activity (branch)](https://img.shields.io/github/commit-activity/t/fankes/Sumi/main?label=commits%20(main)&color=green&style=flat-square)
+
+![Basic Status](https://img.shields.io/badge/Basic%20Status-Project%20Initiated-orange?style=for-the-badge)
+
+New project, merged from [MIUINativeNotifyIcon](#miuinativenotifyicon) and [ColorOSNotifyIcon](#colorosnotifyicon), with plans to support AOSP and AOSP-like systems. It is currently in development.
+
 ### [MIUINativeNotifyIcon](https://github.com/fankes/MIUINativeNotifyIcon)
 
 ![GitHub Repo stars](https://img.shields.io/github/stars/fankes/MIUINativeNotifyIcon)
@@ -263,7 +275,7 @@ Currently, QQ and WeChat have already made relevant functional adjustments. The 
 
 ![Basic Status](https://img.shields.io/badge/Basic%20Status-Normal%20Maintenance-blue?style=for-the-badge)
 
-Since the developer currently lacks device samples, the module is currently maintained by community power, and the later project is ready for migration.
+Since the developer currently lacks device samples, the module is currently maintained by community power. Please follow [Sumi](#sumi) from now on. This project will stop being maintained after it publishes its official release.
 
 ### [ColorOSNotifyIcon](https://github.com/fankes/ColorOSNotifyIcon)
 
@@ -275,7 +287,7 @@ Since the developer currently lacks device samples, the module is currently main
 
 ![Basic Status](https://img.shields.io/badge/Basic%20Status-Normal%20Maintenance-blue?style=for-the-badge)
 
-Since the developer currently lacks device samples, the module is currently maintained by community power, and the later project is ready for migration.
+Since the developer currently lacks device samples, the module is currently maintained by community power. Please follow [Sumi](#sumi) from now on. This project will stop being maintained after it publishes its official release.
 
 ### [AppErrorsTracking](https://github.com/KitsunePie/AppErrorsTracking)
 

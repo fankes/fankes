@@ -253,6 +253,18 @@ Android 业务需求优先维护。
 
 目前来看，QQ 和微信都已经进行了相关功能的整改，最初发现的耗电问题其自身就已经得到了解决，加上目前这些软件都支持了推送服务，无需保持在后台了，现在已经是仅会干掉电源锁的赛博省电模块了，但是对于一些喜欢旧版本的魔人来说它依然有效。目前还有部分 issues 没解决，由于工作繁忙，暂时仅做定期依赖结构更新。
 
+### [Sumi](https://github.com/fankes/Sumi)
+
+![GitHub Repo stars](https://img.shields.io/github/stars/fankes/Sumi)
+![GitHub Issues or Pull Requests](https://img.shields.io/github/issues/fankes/Sumi?style=flat-square)
+
+![GitHub last commit (branch)](https://img.shields.io/github/last-commit/fankes/Sumi/main?style=flat-square)
+![GitHub commit activity (branch)](https://img.shields.io/github/commit-activity/t/fankes/Sumi/main?label=commits%20(main)&color=green&style=flat-square)
+
+![Basic Status](https://img.shields.io/badge/基本状态-已立项-orange?style=for-the-badge)
+
+新项目，由 [MIUINativeNotifyIcon](#miuinativenotifyicon) 与 [ColorOSNotifyIcon](#colorosnotifyicon) 合并而来，并计划适配原生与类原生系统，目前处于开发阶段。
+
 ### [MIUINativeNotifyIcon](https://github.com/fankes/MIUINativeNotifyIcon)
 
 ![GitHub Repo stars](https://img.shields.io/github/stars/fankes/MIUINativeNotifyIcon)
@@ -263,7 +275,7 @@ Android 业务需求优先维护。
 
 ![Basic Status](https://img.shields.io/badge/基本状态-正常维护-blue?style=for-the-badge)
 
-由于开发者目前缺少设备样本，模块目前依靠社区动力进行维护，后期项目准备进行迁移。
+由于开发者目前缺少设备样本，模块目前依靠社区动力进行维护，后续请关注 [Sumi](#sumi)，待其发布正式版本后此项目将停止维护。
 
 ### [ColorOSNotifyIcon](https://github.com/fankes/ColorOSNotifyIcon)
 
@@ -275,7 +287,7 @@ Android 业务需求优先维护。
 
 ![Basic Status](https://img.shields.io/badge/基本状态-正常维护-blue?style=for-the-badge)
 
-由于开发者目前缺少设备样本，模块目前依靠社区动力进行维护，后期项目准备进行迁移。
+由于开发者目前缺少设备样本，模块目前依靠社区动力进行维护，后续请关注 [Sumi](#sumi)，待其发布正式版本后此项目将停止维护。
 
 ### [AppErrorsTracking](https://github.com/KitsunePie/AppErrorsTracking)
 
